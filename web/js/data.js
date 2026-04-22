@@ -14,73 +14,29 @@ window.OP = {
     { term: "Nirvana", alt: null, def: "Cese del aferramiento y de la ignorancia.", bridge: "Extinción del incendio del apego.", risk: "Imaginarlo como lugar o premio post-mortem." },
     { term: "Bodhi", alt: "Despertar", def: "Comprensión directa de la realidad tal como es.", bridge: "Ver sin filtros egocentrados.", risk: "Creer que es un estado emocional permanente." },
     { term: "Prajna", alt: "Sabiduría", def: "Conocimiento no-dual que corta la confusión.", bridge: "Claridad que no depende solo de conceptos.", risk: "Reducirla a inteligencia intelectual." },
-    { term: "Upaya", alt: "Medios hábiles", def: "Formas de enseñar ajustadas al receptor.", bridge: "Mismo backend, distintas interfaces (UI).", risk: "Adorar la interfaz y olvidar el servidor." },
-    { term: "Tathagatagarbha", alt: "Naturaleza búdica", def: "Potencial de despertar presente en todos los seres.", bridge: "Capacidad de ejecución nativa; el núcleo del sistema.", risk: "Tratarla como un «archivo» fijo o alma." },
+    { term: "Upaya", alt: "Medios hábiles", def: "Formas de enseñar ajustadas al receptor.", bridge: "Adaptar el mensaje al oyente, sin perder la esencia.", risk: "Adorar el medio (el dedo) y olvidar el fin (la luna)." },
+    { term: "Tathagatagarbha", alt: "Naturaleza búdica", def: "Potencial de despertar presente en todos los seres.", bridge: "La semilla de lucidez innata que ya tienes.", risk: "Tratarla como un «archivo» fijo o alma." },
     { term: "Zazen", alt: null, def: "Práctica de meditación sentada central del Zen.", bridge: "Entrenar presencia despierta en quietud.", risk: "Usarlo solo para relajarse." },
     { term: "Shikantaza", alt: "Solo sentarse", def: "Zazen sin objeto ni meta instrumental.", bridge: "Practicar sin perseguir resultados.", risk: "Pasividad o somnolencia." },
     { term: "Koan", alt: "Kōan", def: "Dispositivo contemplativo que desarma la lógica dual.", bridge: "Pregunta-límite que rompe automatismos mentales.", risk: "Resolverlo como acertijo intelectual." },
-    { term: "Mu", alt: null, def: "Negación que corta la pregunta mal planteada.", bridge: "Error de sistema (Null/Undefined) que libera recursos.", risk: "Confundir con apagar el monitor (mente en blanco)." },
+    { term: "Mu", alt: null, def: "Negación que corta la pregunta mal planteada.", bridge: "Cortocircuito mental que libera la percepción.", risk: "Confundir con apagar el monitor (mente en blanco)." },
     { term: "Samadhi", alt: null, def: "Estabilidad profunda de la atención unificada.", bridge: "Concentración íntegra y no dispersa.", risk: "Confundirlo con trance escapista." },
     { term: "Klesha", alt: "Aflicciones", def: "Fuerzas mentales que distorsionan la percepción.", bridge: "Sesgos emocionales que nublan.", risk: "Moralizar emociones como «malas»." },
-    { term: "Karma", alt: null, def: "Causalidad ética de acciones, palabras e intenciones.", bridge: "Deuda técnica y efectos secundarios (side effects).", risk: "Fatalismo o pensar que el código se depura solo." },
+    { term: "Karma", alt: null, def: "Causalidad ética de acciones, palabras e intenciones.", bridge: "La ley del eco: todo lo que haces tiene consecuencias ineludibles.", risk: "Confundirlo con un castigo cósmico o un destino fatalista." },
     { term: "Bodhisattva", alt: null, def: "Ser dedicado al despertar de todos antes que al propio.", bridge: "Héroe de la compasión lúcida; activista del despertar.", risk: "Verlo como una deidad o figura inalcanzable." },
     { term: "Karuna", alt: "Compasión", def: "Aspiración de que todos los seres estén libres de sufrimiento.", bridge: "Empatía activa y lúcida.", risk: "Confundir con lástima condescendiente." },
     { term: "Upekkha", alt: "Ecuanimidad", def: "Estabilidad mental ante el éxito o el fracaso.", bridge: "Calma ante el oleaje de la vida.", risk: "Indiferencia o apatía afectiva." },
-    { term: "Maya", alt: "Ilusión", def: "La naturaleza engañosa y construida de las percepciones.", bridge: "Realidad virtual generada por el cerebro y el ego.", risk: "Creer que el mundo físico es literalmente «nada»." },
-    { term: "Mushin", alt: "No-mente", def: "Estado mental libre de bloqueos egocéntricos.", bridge: "Fluidez libre de interferencias narrativas; modo kernel.", risk: "Estado de inconsciencia o zombie." },
-    { term: "Hishiryo", alt: "No-pensamiento", def: "Pensar desde el fondo del no-pensamiento.", bridge: "Procesamiento puro sin generación de logs.", risk: "Creer que es suprimir los pensamientos por la fuerza." },
-    { term: "Heijoshin", alt: "Mente ordinaria", def: "La mente cotidiana, sin adornos, como el camino mismo.", bridge: "El sistema funcionando en modo estándar, sin overclock.", risk: "Usarla como excusa para no practicar." },
+    { term: "Maya", alt: "Ilusión", def: "La naturaleza engañosa y construida de las percepciones.", bridge: "El espejismo constante generado por nuestras expectativas.", risk: "Creer que el mundo físico es literalmente «nada»." },
+    { term: "Mushin", alt: "No-mente", def: "Estado mental libre de bloqueos egocéntricos.", bridge: "Atención plena y fluida, sin la voz crítica narrando lo que pasa.", risk: "Estado de inconsciencia o zombie." },
+    { term: "Hishiryo", alt: "No-pensamiento", def: "Pensar desde el fondo del no-pensamiento.", bridge: "Pura presencia sin enredarse en la cadena de pensamientos.", risk: "Creer que es suprimir los pensamientos por la fuerza." },
+    { term: "Heijoshin", alt: "Mente ordinaria", def: "La mente cotidiana, sin adornos, como el camino mismo.", bridge: "La mente equilibrada en la rutina, sin buscar sensaciones extraordinarias.", risk: "Usarla como excusa para no practicar." },
     { term: "Sangha", alt: null, def: "Comunidad de práctica y apoyo en el camino.", bridge: "Aprender en comunidad para no autoengañarse.", risk: "Dependencia grupal acrítica." },
     { term: "Dharma", alt: null, def: "Enseñanza y ley de realidad según el budismo.", bridge: "Marco práctico para comprender y vivir.", risk: "Usarlo como etiqueta de autoridad." },
   ],
 
   /* ─── CHAPTERS ─────────────────────────────────────────────── */
   chapters: [
-      {
-            "id": 1,
-            "file": "01",
-            "level": 1,
-            "title": "Guia Editorial Zen-Occidental v1",
-            "subtitle": "",
-            "metaphor": "",
-            "school": "[Soto/Rinzai/Ambas/Chan]",
-            "type": "[sutra, poema, koan, tratado, biografia]",
-            "apertura": "",
-            "analogias": [],
-            "pregunta": ""
-      },
-      {
-            "id": 2,
-            "file": "02",
-            "level": 1,
-            "title": "Glosario Puente Zen-Occidental v1",
-            "subtitle": "",
-            "metaphor": "",
-            "school": "",
-            "type": "",
-            "apertura": "",
-            "analogias": [],
-            "pregunta": ""
-      },
-      {
-            "id": 3,
-            "file": "03",
-            "level": 1,
-            "title": "Plantilla de Capitulo Zen-Occidental (v1)",
-            "subtitle": "",
-            "metaphor": "",
-            "school": "",
-            "type": "",
-            "apertura": "Explica por que este texto importa en la practica Zen y que problema humano aborda. 2-4 parrafos.",
-            "analogias": [
-                  {
-                        "title": "Traducción",
-                        "text": "- Reformular los conceptos en lenguaje contemporaneo.\n- Incluir al menos 2 analogias basadas en situaciones cotidianas universales e interhumanas (NO usar jerga informatica).\n- Cada analogia debe incluir una subseccion «El limite de la analogia».",
-                        "limit": ""
-                  }
-            ],
-            "pregunta": "Una pregunta abierta que no se responde con teoria. No incluir «Contemplacion:» como prefijo; el texto habla directamente al lector."
-      },
+
       {
             "id": 4,
             "file": "04",
