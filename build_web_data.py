@@ -98,8 +98,35 @@ def main():
     with open('web/js/data.js', 'r', encoding='utf-8') as f:
         data_js = f.read()
 
+    # Auto-generate OP.chapterTerms
+    glossary_terms = re.findall(r'term:\s*"([^"]+)"', data_js)
+    chapter_terms = {}
+    for chap in chapters:
+        text_to_search = chap['title'] + " " + chap['subtitle'] + " " + chap['apertura'] + " " + chap['pregunta']
+        for a in chap['analogias']:
+            text_to_search += " " + a['title'] + " " + a['text'] + " " + a['limit']
+        
+        found_terms = []
+        for term in glossary_terms:
+            # Basic word boundary search
+            if re.search(r'(?<![\w])' + re.escape(term) + r'(?![\w])', text_to_search, re.IGNORECASE):
+                found_terms.append(term)
+        if found_terms:
+            chapter_terms[chap['id']] = found_terms
+
+    chapter_terms_js = "OP.chapterTerms = {\n"
+    for cid, terms in chapter_terms.items():
+        terms_str = ", ".join(f"'{t}'" for t in terms)
+        chapter_terms_js += f"  {cid}: [{terms_str}],\n"
+    chapter_terms_js += "};"
+
+    # Update chapters
     pattern = re.compile(r'(chapters:\s*\[).*?(\]\s*/\*\s*end chapters\s*\*/)', re.DOTALL)
     new_data_js = pattern.sub(lambda m: 'chapters: ' + chapters_json + ' /* end chapters */', data_js)
+
+    # Update chapterTerms
+    pattern_ct = re.compile(r'OP\.chapterTerms\s*=\s*\{.*?\};', re.DOTALL)
+    new_data_js = pattern_ct.sub(lambda m: chapter_terms_js, new_data_js)
 
     with open('web/js/data.js', 'w', encoding='utf-8') as f:
         f.write(new_data_js)

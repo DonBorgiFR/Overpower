@@ -47,8 +47,9 @@
       });
       if (chapters.length === 0) return;
 
+      const isOpen = filter ? true : (levelCfg.id === 1);
       const levelDiv = document.createElement('div');
-      levelDiv.className = 'sidebar-level open';
+      levelDiv.className = 'sidebar-level' + (isOpen ? ' open' : '');
       levelDiv.dataset.level = levelCfg.id;
 
       levelDiv.innerHTML = `
@@ -105,10 +106,17 @@
     chTerms.forEach(t => discoveredTerms.add(t));
     localStorage.setItem(TERMS_KEY, JSON.stringify([...discoveredTerms]));
 
-    // Update sidebar active state
+    // Update sidebar active state and ensure level is open
     document.querySelectorAll('.sidebar-chapter-btn').forEach(btn => {
       const bid = parseInt(btn.dataset.id);
-      btn.classList.toggle('active', bid === id);
+      if (bid === id) {
+        btn.classList.add('active');
+        // Find parent level and open it
+        const levelDiv = btn.closest('.sidebar-level');
+        if (levelDiv) levelDiv.classList.add('open');
+      } else {
+        btn.classList.remove('active');
+      }
       btn.classList.toggle('read', readSet.has(bid));
     });
 
