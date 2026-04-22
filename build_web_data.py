@@ -99,7 +99,7 @@ def main():
         data_js = f.read()
 
     pattern = re.compile(r'(chapters:\s*\[).*?(\]\s*/\*\s*end chapters\s*\*/)', re.DOTALL)
-    new_data_js = pattern.sub(r'chapters: ' + chapters_json + r' /* end chapters */', data_js)
+    new_data_js = pattern.sub(lambda m: 'chapters: ' + chapters_json + ' /* end chapters */', data_js)
 
     with open('web/js/data.js', 'w', encoding='utf-8') as f:
         f.write(new_data_js)
