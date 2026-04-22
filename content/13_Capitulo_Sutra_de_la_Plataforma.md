@@ -22,26 +22,21 @@ El texto gira en torno a la sucesión del Quinto Patriarca. El discípulo princi
 
 La dialéctica de Huineng desafía nuestra obsesión occidental con el progreso gradual y la "mejora personal" (*self-improvement*).
 
-### Analogía 1: La Iluminación Repentina como un Cambio de Fase (Física)
+### Analogía 1: El Cielo y las Nubes
 
-Imagina que calientas agua. Grado a grado, el agua se calienta (progreso gradual). Pero, al llegar a los 100°C, ocurre algo cualitativamente diferente: el agua se convierte en vapor. No es solo "más caliente"; ha cambiado de estado.
-El Zen de la Plataforma no niega el estudio, pero se enfoca en el **Cambio de Fase**. El despertar no es ser un "yo mejorado", sino pasar de la identificación con el contenido de la mente (agua) a la identificación con la naturaleza de la consciencia (vapor). Es un salto cuántico, no un paso pequeño.
+A menudo pensamos en la meditación como un esfuerzo por "limpiar" la mente de pensamientos negativos, como si la mente fuera una ventana sucia que hay que frotar pacientemente todos los días. Huineng nos propone algo radicalmente distinto: la mente no es la ventana, es el cielo.
 
-- Límite de la analogía: Un cambio de fase en física depende de condiciones externas (presión, temperatura). El despertar zen depende de una disposición interna de soltar todas las condiciones, incluso la idea de "querer despertar".
+Las nubes (tus pensamientos, juicios y emociones) atraviesan el cielo constantemente. A veces son blancas y ligeras, a veces son oscuras y traen tormenta. Pero ninguna nube, por negra que sea, ensucia el cielo. Ninguna tormenta mancha el espacio vacío. El Sutra de la Plataforma te pide que dejes de intentar "barrer" las nubes y simplemente reconozcas que eres el cielo inmenso donde todo ocurre y nada se estanca.
 
-### Analogía 2: El "No hay espejo" como el Espacio Pre-Reflectivo (Neurobiología)
+- Límite de la analogía: El cielo físico es un espacio inerte que no "sabe" que contiene nubes. La Mente Original del Zen no es solo espacio vacío, sino pura consciencia lúcida (*Prajna*); sabe exactamente lo que está ocurriendo sin aferrarse a ello.
 
-Shenxiu ve la mente como un objeto que se ensucia; Huineng ve la mente como el **espacio** donde los objetos aparecen. En neurociencia, hablamos del procesamiento **pre-reflectivo**: la consciencia pura antes de que el cerebro añada la etiqueta del "yo" o empiece a juzgar el estímulo. 
-El "polvo" es el juicio, la etiqueta y la narrativa. Huineng nos dice que, si logras situarte en ese espacio pre-reflectivo, verás que el juicio no puede "pegarse" a la consciencia pura, igual que el humo no puede manchar el cielo. No hay nada que limpiar porque tu esencia no es un "espejo sólido", sino la vacuidad radiante que permite que todo ocurra.
+### Analogía 2: La Visión del Recién Nacido
 
-- Límite de la analogía: La neurociencia describe funciones cerebrales. Huineng describe una realización existencial que trasciende la biología. No es solo una "forma de procesar", es un despertar a quién eres en realidad.
+Imagina a un recién nacido mirando una taza. El bebé ve colores, luz y forma, pero no tiene el concepto de "taza", ni juzga si es barata o cara, hermosa o fea. Solo percibe la realidad de forma directa. Un adulto mira la misma taza e inmediatamente carga la imagen con etiquetas, memorias y juicios de valor.
 
-### Analogía 3: Meditación y Sabiduría como Procesamiento en Tiempo Real
+Lo que Shenxiu llama "polvo" en el espejo es precisamente esta incesante acumulación de juicios. Huineng nos enseña a vivir recuperando esa mirada limpia: viendo el mundo antes de que el filtro del juicio te obligue a reaccionar. Es actuar con toda tu madurez en el mundo, pero con el "no-saber" de quien no está atado a sus opiniones.
 
-Para Huineng, la meditación (*Samyadic*) y la sabiduría (*Prajna*) son como una lámpara y su luz. No puedes tener una sin la otra. No meditas *para* obtener sabiduría tarde o temprano.
-En tecnología, esto es el **Procesamiento en Tiempo Real**. No es que captures datos ahora y los analices mañana; el análisis ocurre mientras los datos fluyen. La práctica zen es sabiduría en acción: el acto de sentarse es ya el acto de ver la naturaleza de Buda.
-
-- Límite de la analogía: Los sistemas de procesamiento en tiempo real son algoritmos diseñados por humanos. La unidad de meditación y sabiduría es un estado de coherencia natural y no-contenciosa de la consciencia.
+- Límite de la analogía: Un recién nacido ve sin juicios por falta de desarrollo cognitivo; es una ignorancia biológica natural. La Mente Original del Zen no es regresión a la infancia, sino percibir sin reificación a pesar de tener la capacidad cognitiva completa, generando una libertad ética y madura.
 
 ## 4. Núcleo de práctica
 
@@ -55,7 +50,7 @@ La enseñanza de Huineng es la "Vía de la No-Residencia".
 
 ## 5. Pregunta contemplativa de cierre
 
-*"¿Cuál es tu rostro original, antes de que tuvieras un nombre y antes de que nacieran tus padres?"*
+¿Cuál es tu rostro original, antes de que tuvieras un nombre y antes de que nacieran tus padres?
 
 ## 6. Errores comunes de interpretación
 

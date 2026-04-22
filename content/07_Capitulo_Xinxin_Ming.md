@@ -22,13 +22,13 @@ Su función en el linaje ha sido la de actuar como un "manual de tono" para el p
 
 Para el lector contemporáneo, "no tener preferencias" puede sonar a indiferencia o apatía. Sin embargo, si usamos la lente de la ciencia cognitiva, entendemos que Sengcan nos está hablando de desactivar ciertos mecanismos de procesamiento de información que nublan nuestra visión.
 
-### Analogía 1: La Red Neuronal por Defecto (El Piloto Automático)
+### Analogía 1: El Juez en el Tribunal Interno
 
-En neurociencia, existe un estado mental llamado **Red Neuronal por Defecto (DMN)**. Es el modo en que funciona nuestro cerebro cuando no estamos enfocados en una tarea externa: la mente divaga, juzga el pasado, se preocupa por el futuro y, sobre todo, mantiene una narrativa autorreferencial constante ("me gusta esto", "no soporto aquello").
+Imagina que vives con un juez que comenta en voz alta todo lo que haces y todo lo que te sucede desde que te despiertas hasta que te acuestas. "Ese café está demasiado frío" (culpable), "este atasco es intolerable" (culpable), "este día soleado es perfecto" (inocente). El desgaste no viene de las cosas que suceden, sino de tener que estar emitiendo un veredicto constante sobre ellas.
 
-"Tener preferencias" en el sentido de Sengcan es mantener la DMN encendida a máxima potencia. El *Xinxin Ming* nos propone un "modo de atención abierta" donde el cerebro deja de procesar la realidad en función del "yo" y sus intereses, permitiendo que los datos del entorno se perciban sin el sesgo del piloto automático. La claridad no viene de "pensar bien", sino de reducir el ruido de fondo del juicio autorreferencial.
+"Tener preferencias", en el sentido del *Xinxin Ming*, es mantener a ese juez trabajando a jornada completa. Soltar las preferencias es simplemente darle vacaciones al juez. La realidad sigue ocurriendo: el café sigue frío y el sol sigue brillando, pero ya no estás obligado a desgastarte decidiendo constantemente si la experiencia es "suficientemente buena" para ti.
 
-- Límite de la analogía: Mientras que la ciencia cognitiva busca entender el mecanismo biológico, el Zen busca la transformación de la relación con ese mecanismo. Apagar la DMN no es el fin del Zen, sino una condición que permite el despertar a la naturaleza búdica, que es inefable y no se reduce a un estado neurológico.
+- Límite de la analogía: Un juez humano dicta sentencias para mantener el orden social. En el Zen, soltar el juicio personal (me gusta/no me gusta) no significa abolir la justicia social ni dejar de tomar decisiones éticas, sino dejar de proyectar nuestros caprichos emocionales sobre la realidad.
 
 ### Analogía 2: El Banquete sin derecho de admisión
 
@@ -50,7 +50,7 @@ En el zazen (meditación sentada), la instrucción de Sengcan se traduce en el a
 
 ## 5. Pregunta contemplativa de cierre
 
-*"Si pudieras ver tu vida de este momento sin usar las palabras 'mejor' o 'peor', ¿qué quedaría frente a ti?"*
+Si pudieras ver tu vida de este momento sin usar las palabras 'mejor' o 'peor', ¿qué quedaría frente a ti?
 
 ## 6. Errores comunes de interpretación
 

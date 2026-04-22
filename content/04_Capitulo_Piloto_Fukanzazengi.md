@@ -31,13 +31,17 @@ Una forma de traducir Fukanzazengi a publico occidental actual es esta: dejar de
 
 Dogen propone condiciones muy concretas: lugar sobrio, postura estable, respiracion natural, columna erguida, presencia despierta. No son tecnicas de rendimiento; son condiciones para salir de la dispersion cronica. En una cultura de multitarea, esto equivale a recuperar soberania atencional.
 
-Analogia 1 (trabajo cognitivo):
-Imagina que tu mente es una mesa de trabajo llena de pestanas abiertas, notificaciones y tareas sin cerrar. El zazen no consiste en terminar todas las pestanas. Consiste en dejar de abrir nuevas compulsivamente, estabilizarte y ver el sistema tal como funciona.
-Limite de la analogia: el Zen no busca solo eficiencia mental ni "gestion del estres". Su fin no es producir mas, sino ver con claridad la estructura del aferramiento.
+### Analogía 1: El Músico que Afina su Instrumento
 
-Analogia 2 (entrenamiento fisico):
-Como en una practica corporal seria, hay forma, repeticion y disciplina. No esperas dominar una postura en dos dias. Vuelves, ajustas, sostienes. Con zazen pasa igual: cada sesion refina presencia y honestidad.
-Limite de la analogia: no hay una marca final de rendimiento. El punto no es "ser mejor meditador" como identidad.
+Antes de un concierto, el músico no se sienta a tocar directamente la sinfonía; primero dedica tiempo a afinar su instrumento. Si la guitarra está desafinada, cualquier melodía sonará distorsionada, por muy buena que sea la intención del músico. El zazen es ese acto de afinación. No te sientas para "tocar" grandes pensamientos o lograr experiencias místicas, te sientas para afinar tu cuerpo y tu atención, logrando que la realidad no suene distorsionada por tu propio ruido interno.
+
+- Límite de la analogía: Un músico afina para lograr un resultado específico y tocar una pieza concreta después. En el Zen, el acto de "afinar" (zazen) y el acto de "tocar" (vivir con lucidez) ocurren simultáneamente. La afinación no es solo preparación, es la práctica misma.
+
+### Analogía 2: El Espejo de Agua Turbia
+
+Imagina un estanque donde alguien acaba de remover el lodo del fondo. El agua está turbia y oscura. Si intentas "limpiarla" metiendo las manos y tratando de aplastar el lodo hacia abajo, solo conseguirás enturbiarla aún más. La única forma de que el agua vuelva a ser transparente es sentarse a la orilla y no hacer nada. Al darle tiempo, el lodo se asienta por sí solo y el agua refleja el cielo. El Fukanzazengi te pide que hagas exactamente eso con tu mente reactiva: asume la postura y dale tiempo.
+
+- Límite de la analogía: Podría dar la impresión de que el zazen es pura pasividad o que el objetivo es tener una mente "totalmente quieta". El Zen no busca eliminar los pensamientos (el lodo), sino dejar de agitarlos compulsivamente creyendo que son nosotros.
 
 Traduccion puente de la frase central de Dogen:
 - Version doctrinal: "La Via es originalmente perfecta".

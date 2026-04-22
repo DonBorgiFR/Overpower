@@ -34,13 +34,17 @@ Una traduccion puente efectiva seria: no conviertas el camino en otra propiedad 
 
 En cultura occidental contemporanea, tenemos tendencia a medir todo con logica de acumulacion: titulos, experiencia, productividad, reputacion. Esa misma logica puede infiltrar la practica espiritual: acumular retiros, tecnicas, lenguaje, prestigio moral. El Sutra del Diamante corta precisamente esa apropiacion.
 
-Analogia 1 (curriculum espiritual):
-Imagina que conviertes tu practica en una seccion del CV: horas de meditacion, cursos, textos leidos, certificaciones. Nada de eso es inutil, pero si te da una identidad fija de "persona despierta", el medio se convierte en obstaculo.
-Limite de la analogia: el sutra no desprecia disciplina ni estudio; critica la fijacion identitaria sobre ellos.
+### Analogía 1: El Currículum Espiritual
 
-Analogia 2 (herramienta y obra):
-Un arquitecto usa andamios para construir. Cuando la estructura esta lista, el andamio se retira. Si alguien se aferra al andamio como si fuera el edificio, confunde medio con fin. En el Diamante, conceptos y formulas doctrinales son andamios.
-Limite de la analogia: en practica real, retiramos un andamio y tomamos otro; no existe "estado final" narcisista de suficiencia.
+Imagina que conviertes tu práctica en una sección más de tu currículum: anotas horas de meditación, cursos asistidos, textos leídos y certificaciones. Nada de eso es inútil en sí mismo, pero si te otorga una identidad fija de "persona espiritualmente avanzada", el propio medio de liberación se ha convertido en una nueva prisión. Has cambiado el aferramiento al éxito material por el aferramiento al éxito espiritual.
+
+- Límite de la analogía: Un currículum tiene la función legítima de demostrar competencia en el mundo laboral. El Sutra del Diamante no desprecia la disciplina ni el estudio riguroso, sino que ataca la apropiación narcisista de esos logros para engordar el ego.
+
+### Analogía 2: Los Andamios del Arquitecto
+
+Un arquitecto utiliza andamios de acero para construir un edificio. Cuando la estructura está firme y puede sostenerse por sí misma, el andamio se retira por completo. Si alguien se enamora del andamio y lo deja puesto, confundiendo la herramienta temporal con la obra final, arruina el propósito del edificio. En el Sutra del Diamante, todos los conceptos, las reglas y las fórmulas doctrinales son andamios temporales.
+
+- Límite de la analogía: En la construcción, el andamio se retira de una vez y el edificio queda "terminado". En la práctica zen real, a menudo retiramos un andamio sutil solo para darnos cuenta de que necesitamos usar otro temporalmente; no existe un "estado final" estático donde dejemos de ser vulnerables al mundo.
 
 Frase puente para el proyecto:
 - Version doctrinal: "El bodhisattva libera incontables seres, y sin embargo no hay seres liberados".

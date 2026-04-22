@@ -22,26 +22,21 @@ El sutra comienza con una premisa audaz: Vimalakirti está enfermo. Cuando el Bu
 
 Para el habitante de la ciudad moderna, Vimalakirti es el modelo de la "espiritualidad encarnada". No huye de la matriz social; la penetra y la transforma.
 
-### Analogía 1: El Silencio como Cese del "I-Tagging" (Teoría de la Información)
+### Analogía 1: El Bombero en el Incendio
 
-En la ciencia cognitiva, nuestra mente genera constantemente etiquetas de identidad (*I-tags*) para cada experiencia: "esto es para *mí*", "esto me molesta a *mí*". Este proceso genera un "ruido" constante en el sistema de información que llamamos consciencia.
-El **Silencio de Vimalakirti** no es una falta de sonido; es el cese total del proceso de etiquetado. Es un sistema de información operando con perfecta fluidez sin la necesidad de crear la ilusión de un observador separado. Cuando Vimalakirti calla, está mostrando una consciencia que ya no necesita "procesar" el mundo como algo ajeno.
+Imagina a un bombero que entra en un edificio en llamas. A su alrededor hay pánico, gritos, fuego y humo. Sin embargo, el bombero no se sienta a llorar por el humo ni se asusta por el ruido; entra con una calma operativa absoluta para rescatar a las personas. Su "silencio" interno es lo que le permite actuar en medio del caos sin ser consumido por él.
 
-- Límite de la analogía: El silencio técnico de un procesador es pasivo. El silencio de Vimalakirti es una presencia vibrante y compasiva. No es una "caída del sistema", sino el sistema funcionando en su estado de coherencia más elevado.
+Vimalakirti en la ciudad es como ese bombero. El "Silencio de Vimalakirti" no es huir al bosque para evitar el ruido del mercado o de las relaciones humanas; es estar en medio del conflicto, el trabajo y las crisis familiares con una claridad tan profunda que las llamas del ego (avaricia, odio, engaño) no lo queman. Su silencio es pura libertad operativa.
 
-### Analogía 2: El Despertar Urbano como Libertad Operativa (Ingeniería de Sistemas)
+- Límite de la analogía: Un bombero entra al edificio con un equipo de protección especial para aislarse del fuego. En el Zen, la libertad no viene de "aislarse" emocionalmente del mundo o construir una coraza protectora, sino de abrirse radicalmente a la realidad sin miedo a ser destruido por ella.
 
-Imagina que la sociedad es una "matriz" compleja de códigos, roles y expectativas. La mayoría de nosotros estamos "ejecutando" esos códigos de forma automática (piloto automático).
-Vimalakirti es como un ingeniero que instala la atención plena en el núcleo del sistema operativo. Él participa en el mercado, en la política y en la vida social, pero lo hace con **Libertad Operativa**. No está esclavizado por el programa de la avaricia o el miedo; usa las estructuras sociales como herramientas para beneficiar a otros (medios hábiles), pero su identidad no está "pegada" a ninguna de ellas.
+### Analogía 2: El Anfitrión Enfermo
 
-- Límite de la analogía: La liberación zen no es "hackear" el sistema para beneficio propio ni para optimizar el rendimiento corporativo. Es una libertad ética que surge de comprender que el sistema (el mundo) y tú no sois dos cosas separadas.
+A menudo pensamos que la enfermedad o la vulnerabilidad son obstáculos para la vida o la práctica espiritual. Imagina a un anfitrión que, estando enfermo en cama, recibe visitas que vienen a quejarse de sus propios problemas menores. En lugar de competir por quién sufre más, el anfitrión usa su propia fragilidad física para recordarles a sus visitas lo breve y preciosa que es la vida, ayudándoles a relativizar sus quejas.
 
-### Analogía 3: La Enfermedad como Ampliación de la "Ventana de Tolerancia" (Psicología de la Resiliencia)
+Vimalakirti usa su enfermedad de esta manera. No lucha contra el dolor ni lo esconde; lo convierte en su herramienta pedagógica. Nos muestra que el despertar no significa tener una salud perfecta o una vida libre de problemas, sino la capacidad de usar la propia vulnerabilidad como un puente compasivo hacia los demás.
 
-Vimalakirti usa su propia fragilidad física (su enfermedad) para enseñar. En psicología contemporánea, la **Ventana de Tolerancia** es el margen de intensidad emocional y física que podemos manejar sin colapsar.
-Normalmente, la enfermedad estrecha esa ventana. Vimalakirti hace lo contrario: usa el dolor y la debilidad como un campo de entrenamiento para expandir su ventana hasta el infinito. No lucha contra el síntoma, sino que lo "inhala" para desmantelar la última barrera del ego: la idea de que "este cuerpo es yo". La enfermedad deja de ser un "error del sistema" para convertirse en el combustible de la lucidez.
-
-- Límite de la analogía: La resiliencia psicológica busca la salud del individuo. En el Zen, el uso de la enfermedad busca la salud de *todos los seres* al demostrar que el despertar trasciende la biología.
+- Límite de la analogía: En la vida diaria, cuando estamos enfermos, es legítimo necesitar descanso y cuidados sin tener que "dar lecciones" a nadie. El sutra lleva esto al extremo mítico para ilustrar un principio espiritual: que la consciencia despierta no está limitada por el colapso biológico del cuerpo.
 
 ## 4. Núcleo de práctica
 
@@ -55,7 +50,7 @@ La práctica de Vimalakirti es "el Zen en el mercado".
 
 ## 5. Pregunta contemplativa de cierre
 
-*"Si te quitas el título de tu trabajo, tu rol en la familia y el estado de tu salud hoy mismo, ¿qué queda en medio de la ciudad guardando silencio?"*
+Si te quitas el título de tu trabajo, tu rol en la familia y el estado de tu salud hoy mismo, ¿qué queda en medio de la ciudad guardando silencio?
 
 ## 6. Errores comunes de interpretación
 

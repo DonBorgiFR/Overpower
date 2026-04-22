@@ -28,21 +28,21 @@ En los monasterios Soto, este texto se canta rítmicamente para recordar que, au
 
 Para la mente occidental, acostumbrada a clasificar y separar (sujeto de objeto, mente de cuerpo), la propuesta del *Sandokai* requiere un cambio de paradigma hacia el pensamiento sistémico.
 
-### Analogía 1: Coherencia Sistémica (La Red de Ecosistemas)
+### Analogía 1: El Ecosistema del Bosque
 
-Imagina un bosque. Si miras de cerca, ves una **Diferencia (San)** abrumadora: pinos, helechos, insectos, hongos. Cada uno tiene su propio ciclo de vida. Sin embargo, si amplías el foco, descubres una **Igualdad (Do)**: todos dependen del mismo suelo, el mismo sol y el mismo ciclo del agua.
+Imagina un bosque en otoño. Si miras un pino y luego miras un hongo en el suelo, ves una diferencia (**San**) abrumadora. Cada uno tiene su propia forma, su propio ciclo de vida y su función específica. Sin embargo, si amplías la mirada, descubres una igualdad (**Do**): ambos crecen en la misma tierra, absorben el mismo sol y beben la misma lluvia. 
 
-La **Armonía (Kai)** ocurre cuando entiendes que el pino no es "más importante" que el hongo, ni es algo "separado" de él. Son nodos en una red de **Relacionalidad Radical**. En el siglo XXI, entendemos que la salud del bosque no está en un árbol individual, sino en la coherencia de todo el sistema. El *Sandokai* nos dice que nosotros somos ese bosque: únicos en nuestra forma, pero biológicamente y espiritualmente inseparables del sistema total.
+La armonía (**Kai**) ocurre porque el pino no compite con el hongo por ser "el mejor elemento del bosque"; coexisten. El *Sandokai* nos dice que nosotros somos ese bosque: únicos en nuestra forma individual (diferencia), pero inseparables del sustrato común de la vida (igualdad). 
 
-- Límite de la analogía: Un ecosistema biológico se rige por leyes de supervivencia y energía. El *Sandokai* no es solo una descripción de leyes naturales, sino de una realización espiritual donde la "Igualdad" es la vacuidad misma (*Shunyata*). No se trata solo de estar interconectados físicamente, sino de despertar a que no hay un "yo" sólido en el centro del nodo.
+- Límite de la analogía: Un ecosistema biológico se rige por leyes de supervivencia y cadenas alimenticias. El *Sandokai* no describe simplemente una interconexión física, sino una realización directa donde la "igualdad" es la vacuidad (*Shunyata*), un despertar a que no hay un "yo" sólido separado de todo lo demás.
 
-### Analogía 2: El Fractal (Del Átomo a la Galaxia)
+### Analogía 2: El Coro Polifónico
 
-En la física contemporánea y en la geometría fractal, vemos que ciertos patrones se repiten a diferentes escalas. Un átomo tiene una estructura (núcleo y electrones orbitando) que resuena con la estructura de una galaxia.
+En un coro, hay sopranos, tenores y bajos. Cada cantante tiene una tesitura de voz única y en muchos momentos canta notas completamente diferentes a las del resto (la diferencia). Si un tenor intenta cantar la nota del soprano, arruina la pieza. Sin embargo, todas esas voces tan distintas están cantando la misma canción, sostenidas por el mismo silencio de fondo (la igualdad).
 
-Lo que el *Sandokai* llama "Igualdad" es el patrón, la ley de la realidad que es la misma en todas partes. Lo que llama "Diferencia" es la escala o el objeto concreto. Como un fractal, tú eres una "pieza" del universo que contiene las leyes del universo entero. No eres una gota *en* el océano; eres el océano expresándose *como* una gota en este preciso lugar y momento.
+Cuando todas las voces suenan a la vez, el resultado no es un caos de diferencias aisladas, sino un solo acorde unificado y poderoso (la armonía). Tú eres una de esas voces únicas, indispensable en tu diferencia, pero que solo tiene pleno sentido cuando reconoces la canción completa.
 
-- Límite de la analogía: En un fractal matemático, la relación es formal y geométrica. El Zen propone una relación vivencial y no-conceptual. Comprender el "patrón" no es resolver una ecuación, sino dejar de luchar contra la realidad tal como se manifiesta en este momento.
+- Límite de la analogía: En un coro hay un director humano y una partitura escrita que todos deben seguir. En el Zen, la "canción" de la realidad surge espontáneamente en cada instante, sin ningún director externo ni partitura que dicte lo que debe suceder.
 
 ## 4. Núcleo de práctica
 
@@ -56,7 +56,7 @@ La práctica del *Sandokai* consiste en no quedar atrapado en ninguno de los dos
 
 ## 5. Pregunta contemplativa de cierre
 
-*"¿Dónde termina el sol y dónde empiezas tú, si la luz que golpea tu piel es la que permite que tus ojos vean y tu corazón lata?"*
+¿Dónde termina el sol y dónde empiezas tú, si la luz que golpea tu piel es la que permite que tus ojos vean y tu corazón lata?
 
 ## 6. Errores comunes de interpretación
 

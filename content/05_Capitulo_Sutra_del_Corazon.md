@@ -33,13 +33,17 @@ Una traduccion puente util para publico occidental es esta: el Sutra del Corazon
 
 Esto cambia por completo la forma de vivir. Si tomo mis pensamientos como hechos absolutos, reacciono de manera automatica. Si veo que un pensamiento es un evento condicionado (biografia, estado corporal, contexto, miedo, deseo), aparece un margen de libertad. No siempre elijo lo que siento, pero puedo elegir como relacionarme con ello.
 
-Analogia 1 (identidad digital):
-Piensa en tu identidad online. Segun plataforma, contexto o audiencia, proyectas versiones distintas de ti. Ninguna version agota quien eres. El Sutra del Corazon diria: tampoco tu "yo interior" es una pieza fija; es una configuracion dinamica de procesos.
-Limite de la analogia: en Zen no se trata de construir una mejor marca personal ni una identidad mas eficiente, sino de soltar el aferramiento a toda identidad rigida.
+### Analogía 1: La Personalidad en la Reunión Familiar
 
-Analogia 2 (trafico urbano):
-Un atasco parece una cosa compacta: "el trafico". Pero al mirarlo de cerca es una red de micro-causas: semaforos, decisiones, clima, horarios, obras, accidentes, prisa colectiva. Igual con el sufrimiento: parece un bloque solido, pero esta compuesto por condiciones que cambian.
-Limite de la analogia: entender causalidad no significa control total. La practica no promete dominio absoluto de la vida, sino una relacion menos ciega con lo que surge.
+Piensa en cómo actúas cuando estás con tu madre, y luego compáralo con cómo actúas frente a tu jefe o con tus amigos de la infancia. Tu "yo" cambia radicalmente de tono, postura y reacciones según con quién estés. Ninguna de esas versiones es la definitiva, y sin embargo, todas son reales en su contexto. El Sutra del Corazón diría: tampoco tu "yo interior" es una pieza fija; es una configuración dinámica que surge en respuesta a las condiciones.
+
+- Límite de la analogía: En la vida social, nos adaptamos para ser aceptados o funcionales. En el Zen, comprender que no hay un yo fijo no es una táctica de adaptación, sino una vía para soltar la profunda angustia de intentar proteger una identidad que en realidad no es sólida.
+
+### Analogía 2: El Atasco de Tráfico
+
+Un atasco de tráfico nos hace quejarnos de "el tráfico" como si fuera una cosa sólida y compacta que está en nuestra contra. Pero al mirarlo de cerca, no es una "cosa": es una red de micro-causas. Semáforos, una calle cortada, la prisa colectiva, la lluvia y cientos de decisiones individuales que coinciden. Igual pasa con nuestro sufrimiento: parece un bloque sólido y aplastante ("mi problema"), pero está compuesto por condiciones transitorias y entrelazadas.
+
+- Límite de la analogía: Entender la cadena de causas de un atasco no disuelve mágicamente los coches ni te hace llegar antes. La comprensión de la vacuidad no promete el control absoluto de la vida, sino una relación mucho menos dramática y reactiva con los problemas que surgen.
 
 Frase puente para uso editorial del proyecto:
 - Version doctrinal: "Forma es vacio, vacio es forma".

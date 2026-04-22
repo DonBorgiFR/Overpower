@@ -22,26 +22,21 @@ A diferencia de otros textos más poéticos, el *Lanka* es un tratado técnico y
 
 Para la mente del siglo XXI, las propuestas del *Lankavatara* resuenan con los descubrimientos de la neurociencia constructivista y la tecnología digital.
 
-### Analogía 1: Cittamatra como Realidad Virtual (VR)
+### Analogía 1: El Proyector de Cine
 
-Imagina que llevas puesto un casco de Realidad Virtual de alta resolución. Dentro del casco, ves montañas, sientes el viento y escuchas sonidos. Todo parece "fuera", pero sabes que son impulsos eléctricos procesados por un software y proyectados en una interfaz.
-El *Lankavatara* nos dice que nuestra mente cotidiana es ese casco de VR. El "mundo exterior" es el contenido renderizado por nuestra mente. No es que el mundo no exista, sino que lo que *tú* experimentas como "el mundo" es una interpretación biológica y psicológica constante.
+Imagina que estás en un cine viendo una película de terror. De pronto, un monstruo salta a la pantalla y tú te encoges en la butaca con el corazón latiendo a mil por hora. Todo tu cuerpo reacciona como si la amenaza fuera real, pero en realidad, todo lo que tienes delante es una tela blanca sobre la que se proyecta luz. 
 
-- Límite de la analogía: En la VR hay un programador externo y un hardware físico. En el Zen, no hay un "yo" separado operando el casco; el casco, el usuario y el paisaje son un único proceso de consciencia. Despertar no es quitarse el casco para ver un mundo "real" fuera, sino reconocer la naturaleza del proceso creativo de la mente.
+El *Lankavatara* nos dice que nuestra mente cotidiana es ese proyector. El "mundo exterior" que nos asusta, nos enamora o nos frustra es el contenido proyectado por nuestros propios hábitos. No es que el mundo físico no exista, sino que lo que *tú* experimentas como "el mundo" es la película que tu consciencia proyecta constantemente sobre él.
 
-### Analogía 2: Alayavijnana como el Servidor de Big Data
+- Límite de la analogía: En un cine hay un proyector de metal, una cinta y un operador. En el Zen, no hay un "yo" separado operando el proyector; la luz, la película y el espectador son un único proceso vivo de consciencia. Despertar no es apagar la película para huir de la sala, sino dejar de asustarse con el monstruo al reconocer que está hecho de luz.
 
-El sutra habla de la *Alayavijnana* o "Conciencia Almacén". Es la octava capa de la mente, donde se guardan las "semillas" (*bijas*) de todas nuestras acciones, miedos y hábitos pasados.
-Funciona exactamente como un **Servidor de Big Data**. Cada búsqueda, cada clic y cada interacción que has tenido en la vida deja un rastro de datos. Cuando navegas hoy, esos datos determinan qué anuncios ves y cómo se comporta tu interfaz. De igual modo, las "semillas" en tu *Alayavijnana* determinan cómo "renderizas" tu realidad presente: si tienes semillas de miedo, el mundo te parecerá amenazante; si tienes semillas de paz, el mundo será un campo de práctica.
+### Analogía 2: El Semillero del Jardín
 
-- Límite de la analogía: El Big Data es un sistema comercial y algorítmico. La *Alayavijnana* es un proceso kármico vivo. El Zen no busca "borrar los datos" de forma mecánica, sino "girar la base de la consciencia" (*paravritti*) para dejar de ser esclavos de los algoritmos del hábito.
+El sutra habla de la *Alayavijnana* o "Conciencia Almacén", donde se guardan las "semillas" de todos nuestros hábitos pasados. Piensa en tu mente como en la tierra de un jardín que ya tiene miles de semillas enterradas. 
 
-### Analogía 3: Tathagatagarbha como Neuroplasticidad Profunda
+Si pasas años sembrando semillas de desconfianza (hábitos de pensar mal de los demás), a la menor gota de lluvia (un simple comentario de un compañero), brotará una planta venenosa (una reacción defensiva). El evento externo no creó la reacción; solo regó la semilla que ya tenías guardada. Si en cambio cultivas semillas de paz, el mismo comentario hará brotar algo diferente. Tú no percibes el mundo de forma neutra, lo percibes a través de lo que ya has sembrado en ti.
 
-A pesar de todo el ruido y los condicionamientos de los datos (karma), el sutra afirma que en el núcleo de la consciencia reside la *Tathagatagarbha* o Naturaleza Búdica.
-Podemos verlo como la **capacidad innata de neuroplasticidad** del sistema nervioso. No importa cuán "dañado" o condicionado esté el software de tu mente, el hardware de la consciencia siempre conserva el potencial de reorganizarse hacia la claridad y la salud perfecta. Ese potencial no es algo que debas "fabricar", sino algo que ya está allí, esperando ser descubierto tras las capas de condicionamiento.
-
-- Límite de la analogía: La neuroplasticidad es un proceso biológico finito. La Naturaleza Búdica se describe como algo trascendental, eterno e inafectado por el nacimiento y la muerte.
+- Límite de la analogía: Las semillas de un jardín son físicas y se pueden arrancar con una pala. Las semillas kármicas no son "cosas" sólidas que haya que destruir violentamente. El Zen propone "girar la base de la consciencia", un acto de lucidez donde dejamos de identificarnos compulsivamente con los hábitos y nos damos cuenta de la pureza de la tierra misma.
 
 ## 4. Núcleo de práctica
 
@@ -55,7 +50,7 @@ La práctica del *Lankavatara* es una forma de "ingeniería inversa" de la perce
 
 ## 5. Pregunta contemplativa de cierre
 
-*"Si el mundo que ves es una pintura de tu propia mente, ¿quién es el pintor y dónde deja de apoyarse el pincel sobre el lienzo?"*
+Si el mundo que ves es una pintura de tu propia mente, ¿quién es el pintor y dónde deja de apoyarse el pincel sobre el lienzo?
 
 ## 6. Errores comunes de interpretación
 

@@ -22,19 +22,21 @@ El poema describe el estado de *Samadhi* (absorción meditativa) no como un tran
 
 Para conectar la visión de Tozan con la mentalidad contemporánea, exploramos cómo la ciencia de la percepción y la neurobiología entienden la "transparencia" de la conciencia.
 
-### Analogía 1: La Percepción sin "I-Tagging" (El Espejo de la Cognición)
+### Analogía 1: El Fotógrafo Objetivo
 
-En la ciencia cognitiva actual, se estudia cómo el cerebro añade una "etiqueta del yo" (*I-tagging*) a cada percepción. Cuando ves un árbol, tu cerebro no solo procesa "árbol", sino "un árbol que *yo* estoy viendo". Esta etiqueta tiñe la realidad con tus miedos, deseos y memorias.
-El "Espejo Precioso" de Tozan es una metáfora de una **percepción sin etiquetas**. Es un estado donde la información sensorial se procesa sin el filtro autorreferencial. Al eliminar el sesgo del ego, la realidad aparece con una fidelidad "joyante", reflejando las cosas tal como son, no como queremos que sean.
+Imagina a un fotógrafo que quiere capturar la esencia de un paisaje. Si llega y empieza a mover las rocas, a cortar ramas porque "no le gustan" o a poner filtros exagerados en la lente para que se vea más espectacular, ya no está fotografiando el paisaje, sino su propia opinión sobre el paisaje.
 
-- Límite de la analogía: La ciencia cognitiva describe este proceso como una función técnica del cerebro. En el Zen, el espejo no es solo un mecanismo; es la naturaleza búdica misma. No es solo "ver mejor", es despertar al hecho de que quien ve y lo visto son una sola luz.
+El "Espejo Precioso" es como un fotógrafo que simplemente abre el obturador y deja entrar la luz exacta que hay en ese instante. Refleja las cosas tal como son, sin intentar manipularlas para que encajen en lo que él cree que es "bello" o "correcto". Al eliminar la interferencia de sus gustos, la realidad aparece con una fidelidad perfecta.
 
-### Analogía 2: El Silencio Neurobiológico (Medianoche es la verdadera luz)
+- Límite de la analogía: Un fotógrafo captura una imagen estática que luego queda grabada en un papel. El espejo de la mente zen refleja de forma dinámica y no retiene ninguna imagen; cuando el objeto se va, el espejo queda vacío y listo para reflejar lo siguiente, sin aferrarse a nada.
 
-Tozan afirma paradójicamente que *"Medianoche es la verdadera luz; el alba no es clara"*. En neurobiología, existe un fenómeno llamado Potencial Evocado Cardíaco (HEP), que mide cuánto reacciona el cerebro a los latidos del corazón. Los estudios muestran que cuando estamos muy atrapados en el "yo", la señal HEP es muy fuerte.
-Al entrar en estados profundos de ecuanimidad (la "Medianoche" de Tozan), esta señal de ruido biológico autorreferencial se silencia. En esa "oscuridad" del ego, surge una claridad asombrosa: la **Metaconsciencia**. La verdadera luz no es el brillo del intelecto, sino el resplandor que queda cuando el ruido del "yo" se apaga por completo.
+### Analogía 2: El Huésped Silencioso
 
-- Límite de la analogía: Medir la disminución de la señal HEP es observar el rastro biológico de la meditación, no la meditación en sí. El *Hokkyo Zanmai* es una invitación a la experiencia directa, no a la validación mediante escáneres cerebrales.
+Tozan afirma paradójicamente que "Medianoche es la verdadera luz". Imagina que vives en una casa llena de invitados escandalosos (tus pensamientos y preocupaciones). Si enciendes todas las luces y empiezas a gritarles para que se callen o intentas echarlos a la fuerza, solo generas más conflicto y ruido.
+
+Pero si te sientas en la oscuridad, en silencio, y te limitas a ser un anfitrión tranquilo que no reacciona a sus provocaciones, poco a poco los invitados se van calmando por sí solos. En esa "oscuridad" (renunciar al control reactivo), encuentras una claridad y una paz que no podrías haber logrado luchando. Esa es la luz de la medianoche.
+
+- Límite de la analogía: En esta metáfora parece que el objetivo final es quedarse solo y en silencio en la casa. El Zen no busca aislarte de la vida ni eliminar todos los pensamientos, sino enseñarte a convivir con cualquier "invitado" sin perder tu centro de gravedad.
 
 ## 4. Núcleo de práctica
 
@@ -54,7 +56,7 @@ Para integrar la paradoja de lo Absoluto (la unidad) y lo Relativo (la diversida
 
 ## 5. Pregunta contemplativa de cierre
 
-*"Cuando la nieve blanca cae en un cuenco de plata, ¿quién puede decir dónde termina la nieve y dónde empieza el metal? ¿Puedes vivir hoy con esa misma transparencia?"*
+Cuando la nieve blanca cae en un cuenco de plata, ¿quién puede decir dónde termina la nieve y dónde empieza el metal? ¿Puedes vivir hoy con esa misma transparencia?
 
 ## 6. Errores comunes de interpretación
 
