@@ -1,0 +1,424 @@
+/* ═══════════════════════════════════════
+   OVERPOWER · GLOSSARY PAGE + TOOLTIP STYLES
+═══════════════════════════════════════ */
+
+/* ─── GLOSSARY PAGE LAYOUT ─── */
+.glosario-page {
+    padding-top: 65px;
+    min-height: 100vh;
+}
+
+/* ─── GLOSARIO HERO ─── */
+.glosario-hero {
+    padding: 3.5rem 2rem 2rem;
+    text-align: center;
+    border-bottom: 1px solid var(--border-subtle);
+    background: linear-gradient(to bottom, rgba(201, 168, 76, 0.04), transparent);
+}
+
+.glosario-hero h1 {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 300;
+    margin-bottom: 0.5rem;
+}
+
+.glosario-hero h1 em {
+    font-style: normal;
+    color: var(--accent-gold);
+}
+
+.glosario-hero p {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    max-width: 540px;
+    margin: 0 auto 2rem;
+    line-height: 1.7;
+}
+
+/* ─── CONTROLS BAR ─── */
+.glosario-controls {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1.5rem 2rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.glosario-search-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 200px;
+}
+
+.glosario-search-wrap svg {
+    position: absolute;
+    left: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-tertiary);
+    width: 16px; height: 16px;
+    pointer-events: none;
+}
+
+.glosario-search {
+    width: 100%;
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    padding: 0.75rem 1rem 0.75rem 2.8rem;
+    outline: none;
+    transition: border-color var(--transition-fast);
+}
+.glosario-search::placeholder { color: var(--text-tertiary); }
+.glosario-search:focus { border-color: var(--accent-gold); }
+
+/* Level filter pills */
+.glosario-filters {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.filter-pill {
+    padding: 0.4rem 0.9rem;
+    border-radius: 100px;
+    border: 1px solid var(--border-subtle);
+    background: none;
+    color: var(--text-tertiary);
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+.filter-pill:hover { border-color: var(--border-accent); color: var(--text-secondary); }
+.filter-pill.active {
+    background: var(--accent-gold-dim);
+    border-color: var(--accent-gold);
+    color: var(--accent-gold);
+}
+.filter-pill .pill-dot {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+}
+
+/* Counter */
+.glosario-count {
+    font-size: 0.75rem;
+    color: var(--text-tertiary);
+    white-space: nowrap;
+    margin-left: auto;
+}
+
+/* ─── GLOSSARY GRID ─── */
+.glosario-grid {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem 5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.25rem;
+}
+
+/* ─── TERM CARD ─── */
+.gterm-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-lg);
+    padding: 1.75rem;
+    transition: var(--transition-smooth);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.gterm-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 2px;
+    background: var(--accent-gold);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+.gterm-card:hover {
+    border-color: var(--border-accent);
+    background: var(--bg-card-hover);
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card);
+}
+.gterm-card:hover::before { transform: scaleX(1); }
+
+.gterm-card[style*="--level-color"] { --card-color: var(--level-color, var(--accent-gold)); }
+
+/* Term header */
+.gterm-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.gterm-name {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: var(--text-primary);
+    line-height: 1.2;
+}
+
+.gterm-alt {
+    display: inline-block;
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--accent-gold);
+    background: var(--accent-gold-dim);
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+    white-space: nowrap;
+    margin-top: 0.3rem;
+}
+
+/* Sections */
+.gterm-section {
+    margin-top: 0.85rem;
+}
+.gterm-section-label {
+    font-size: 0.62rem;
+    letter-spacing: 0.20em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    margin-bottom: 0.3rem;
+}
+.gterm-section-text {
+    font-size: 0.87rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+}
+
+/* Bridge translation */
+.gterm-bridge {
+    margin-top: 0.85rem;
+    padding: 0.6rem 0.9rem;
+    background: var(--accent-gold-glow);
+    border-left: 2px solid var(--accent-gold);
+    border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+    font-size: 0.85rem;
+    color: var(--text-primary);
+    font-style: italic;
+    line-height: 1.5;
+}
+
+/* Risk */
+.gterm-risk {
+    margin-top: 0.75rem;
+    display: flex;
+    gap: 0.4rem;
+    font-size: 0.80rem;
+    color: var(--text-tertiary);
+    line-height: 1.5;
+}
+.gterm-risk-icon { flex-shrink: 0; }
+
+/* Divider */
+.gterm-divider {
+    width: 100%;
+    height: 1px;
+    background: var(--border-subtle);
+    margin: 1rem 0;
+}
+
+/* Chapter pills */
+.gterm-chapters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: auto;
+    padding-top: 0.5rem;
+}
+.gterm-chapters-label {
+    font-size: 0.62rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    width: 100%;
+    margin-bottom: 0.3rem;
+}
+.chapter-pill {
+    padding: 0.2rem 0.6rem;
+    border-radius: 100px;
+    font-size: 0.70rem;
+    font-weight: 500;
+    text-decoration: none;
+    cursor: pointer;
+    transition: opacity 0.2s;
+    border: none;
+    font-family: var(--font-body);
+}
+.chapter-pill:hover { opacity: 0.8; }
+.chapter-pill[data-level="1"] { background: var(--accent-gold-dim);  color: var(--accent-gold); }
+.chapter-pill[data-level="2"] { background: var(--accent-sage-dim);  color: var(--accent-sage); }
+.chapter-pill[data-level="3"] { background: var(--accent-ink-dim);   color: var(--accent-ink); }
+.chapter-pill[data-level="4"] { background: var(--accent-ember-dim); color: var(--accent-ember); }
+
+/* Empty state */
+.glosario-empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-tertiary);
+}
+.glosario-empty p { font-size: 0.9rem; }
+
+
+/* ═══════════════════════════════════════
+   TOOLTIP SYSTEM (used in reader)
+═══════════════════════════════════════ */
+
+.gloss-term {
+    position: relative;
+    color: var(--accent-gold);
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-underline-offset: 3px;
+    text-decoration-color: rgba(201, 168, 76, 0.5);
+    cursor: help;
+    display: inline;
+}
+
+.gloss-tooltip {
+    position: absolute;
+    bottom: calc(100% + 10px);
+    left: 50%;
+    transform: translateX(-50%) translateY(6px);
+    width: 270px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-accent);
+    border-radius: var(--radius-md);
+    padding: 1rem 1.1rem;
+    box-shadow: 0 8px 40px rgba(0,0,0,0.6), 0 0 0 1px rgba(255,255,255,0.03);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.18s ease, transform 0.18s ease;
+    z-index: 500;
+    text-align: left;
+    font-style: normal;
+    display: block;
+}
+/* Pointer arrow */
+.gloss-tooltip::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    border: 6px solid transparent;
+    border-top-color: var(--border-accent);
+}
+
+/* Show on hover + focus */
+.gloss-term:hover      .gloss-tooltip,
+.gloss-term:focus-within .gloss-tooltip {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+    pointer-events: auto;
+}
+
+/* Tooltip internals */
+.gt-name {
+    display: block;
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--text-primary);
+    margin-bottom: 0.1rem;
+}
+
+.gt-alt {
+    display: inline-block;
+    font-size: 0.65rem;
+    letter-spacing: 0.10em;
+    text-transform: uppercase;
+    color: var(--accent-gold);
+    margin-bottom: 0.6rem;
+    font-style: normal;
+}
+
+.gt-def {
+    font-size: 0.80rem;
+    color: var(--text-secondary);
+    line-height: 1.55;
+    margin-bottom: 0.5rem;
+    font-family: var(--font-body);
+    font-style: normal;
+    font-weight: 400;
+}
+
+.gt-bridge {
+    font-size: 0.78rem;
+    color: var(--accent-gold);
+    font-style: italic;
+    line-height: 1.45;
+    padding: 0.35rem 0.6rem;
+    background: var(--accent-gold-glow);
+    border-radius: var(--radius-sm);
+    display: block;
+    font-family: var(--font-body);
+    font-weight: 400;
+}
+
+.gt-link {
+    display: inline-block;
+    margin-top: 0.6rem;
+    font-size: 0.68rem;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.gt-link:hover { color: var(--accent-gold); }
+
+/* Ensure tooltips near top of screen open downward */
+.gloss-term.tooltip-below .gloss-tooltip {
+    bottom: auto;
+    top: calc(100% + 10px);
+    transform: translateX(-50%) translateY(-6px);
+}
+.gloss-term.tooltip-below:hover .gloss-tooltip,
+.gloss-term.tooltip-below:focus-within .gloss-tooltip {
+    transform: translateX(-50%) translateY(0);
+}
+.gloss-term.tooltip-below .gloss-tooltip::after {
+    bottom: 100%; top: auto;
+    border-top-color: transparent;
+    border-bottom-color: var(--border-accent);
+}
+
+/* ─── RESPONSIVE ─── */
+@media (max-width: 768px) {
+    .glosario-grid { grid-template-columns: 1fr; padding: 0 1.25rem 4rem; }
+    .glosario-controls { padding: 1rem 1.25rem; }
+    .glosario-hero { padding: 2.5rem 1.25rem 1.5rem; }
+    
+    /* Tooltip: on mobile show below */
+    .gloss-tooltip {
+        width: 230px;
+        font-size: 0.85rem;
+    }
+}

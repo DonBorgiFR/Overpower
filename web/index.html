@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="OverPower — 32 capítulos que traducen la sabiduría del Zen clásico al lenguaje de quien vive, trabaja y se cuestiona en el mundo contemporáneo.">
+    <title>OverPower · Compendio Zen</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="stylesheet" href="css/tokens.css">
+    <link rel="stylesheet" href="css/landing.css">
+    <link rel="stylesheet" href="css/search.css">
+</head>
+<body>
+
+    <!-- NAV (slides in after scroll) -->
+    <nav class="nav nav-landing" id="nav" aria-label="Navegación principal">
+        <a href="index.html" class="nav-logo">Over<em>Power</em></a>
+        <ul class="nav-links">
+            <li class="nav-hide-mobile"><a href="#niveles">Niveles</a></li>
+            <li class="nav-hide-mobile"><a href="#koans">Kōans</a></li>
+            <li class="nav-hide-mobile"><a href="#metodo">Método</a></li>
+            <li class="nav-hide-mobile">
+                <button class="nav-search-btn" id="searchTrigger" aria-label="Buscar (Ctrl+K)">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                        <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+                    </svg>
+                    Buscar <span class="srch-hint">⌘K</span>
+                </button>
+            </li>
+            <li class="nav-hide-mobile"><a href="glosario.html">Glosario</a></li>
+            <li class="nav-hide-mobile"><a href="practica.html">Práctica</a></li>
+            <li class="nav-hide-mobile"><a href="progreso.html">Progreso</a></li>
+            <li><a href="explorar.html" class="nav-cta">Explorar</a></li>
+        </ul>
+    </nav>
+
+    <!-- ═══════ HERO ═══════ -->
+    <section class="hero" aria-labelledby="hero-title">
+        <p class="hero-eyebrow">Zen Compendium · Edición 2026</p>
+
+        <h1 class="hero-title" id="hero-title">
+            Una forma distinta<br>de leer lo <em>eterno</em>
+        </h1>
+
+        <p class="hero-subtitle">
+            32 capítulos que traducen la sabiduría del Zen clásico al lenguaje de quien vive, trabaja y se cuestiona en el mundo contemporáneo. Sin misticismo vacío. Sin autoayuda superficial.
+        </p>
+
+        <div class="hero-stats" role="list" aria-label="Estadísticas del compendio">
+            <div class="hero-stat" role="listitem">
+                <div class="hero-stat-number">32</div>
+                <div class="hero-stat-label">Capítulos</div>
+            </div>
+            <div class="hero-stat" role="listitem">
+                <div class="hero-stat-number">16</div>
+                <div class="hero-stat-label">Kōans</div>
+            </div>
+            <div class="hero-stat" role="listitem">
+                <div class="hero-stat-number">4</div>
+                <div class="hero-stat-label">Niveles</div>
+            </div>
+        </div>
+
+        <a href="explorar.html" class="hero-cta" id="hero-cta-btn">
+            Explorar el compendio
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <path d="M5 12h14M12 5l7 7-7 7"/>
+            </svg>
+        </a>
+
+        <div class="hero-scroll" aria-hidden="true"><span></span></div>
+    </section>
+
+    <!-- ═══════ NIVELES ═══════ -->
+    <section class="section" id="niveles" aria-labelledby="niveles-title">
+        <div class="section-header reveal">
+            <p class="section-tag">Estructura</p>
+            <h2 class="section-title" id="niveles-title">Cuatro niveles de profundidad</h2>
+            <p class="section-desc">Desde los sutras fundacionales hasta los kōans que desbaratan la lógica ordinaria. Cada nivel se construye sobre el anterior.</p>
+        </div>
+
+        <div class="levels-grid">
+
+            <a href="explorar.html?level=1" class="level-card reveal" data-accent="gold" aria-label="Nivel 1: Sutras Fundacionales">
+                <div class="level-icon" aria-hidden="true">壱</div>
+                <p class="level-label">Nivel 1</p>
+                <h3 class="level-name">Sutras Fundacionales</h3>
+                <p class="level-desc">Los textos que establecen las bases: el Sutra del Corazón, el Sutra del Diamante, el Laṅkāvatāra. La estructura de la experiencia, antes de la narrativa del yo.</p>
+                <div class="level-meta">
+                    <span class="level-count">10 capítulos</span>
+                    <span aria-hidden="true">·</span>
+                    <span>Nivel de entrada</span>
+                </div>
+                <svg class="level-card-arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </a>
+
+            <a href="explorar.html?level=2" class="level-card reveal" data-accent="sage" aria-label="Nivel 2: Patriarcas y Linaje">
+                <div class="level-icon" aria-hidden="true">弐</div>
+                <p class="level-label">Nivel 2</p>
+                <h3 class="level-name">Patriarcas y Linaje</h3>
+                <p class="level-desc">Bodhidharma, Huike, Sengcan y la Escuela de la Montaña del Este. La historia de cómo el Zen se transmitió de mente a mente, y qué significa eso hoy.</p>
+                <div class="level-meta">
+                    <span class="level-count">4 capítulos</span>
+                    <span aria-hidden="true">·</span>
+                    <span>Contexto histórico</span>
+                </div>
+                <svg class="level-card-arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </a>
+
+            <a href="explorar.html?level=3" class="level-card reveal" data-accent="ink" aria-label="Nivel 3: Obras Maestras de Dōgen">
+                <div class="level-icon" aria-hidden="true">参</div>
+                <p class="level-label">Nivel 3</p>
+                <h3 class="level-name">Obras Maestras</h3>
+                <p class="level-desc">Los tratados de Dōgen Zenji: Genjōkōan, Bendōwa y Zazengi. La cúspide intelectual del Zen japonés, traducida a un lenguaje que respira y que se puede habitar.</p>
+                <div class="level-meta">
+                    <span class="level-count">3 capítulos</span>
+                    <span aria-hidden="true">·</span>
+                    <span>Práctica avanzada</span>
+                </div>
+                <svg class="level-card-arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </a>
+
+            <a href="explorar.html?level=4" class="level-card reveal" data-accent="ember" aria-label="Nivel 4: Mumonkan, 48 Kōans">
+                <div class="level-icon" aria-hidden="true">肆</div>
+                <p class="level-label">Nivel 4</p>
+                <h3 class="level-name">Mumonkan · 48 Kōans</h3>
+                <p class="level-desc">La Puerta Sin Puerta. Cada kōan traducido con una metáfora técnica que lo hace tangible sin vaciarlo de su fuerza: race conditions, deadlocks, loops que no colapsan.</p>
+                <div class="level-meta">
+                    <span class="level-count">16 de 48</span>
+                    <span aria-hidden="true">·</span>
+                    <span>En progreso</span>
+                </div>
+                <svg class="level-card-arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </a>
+
+        </div>
+    </section>
+
+    <!-- ═══════ KOAN SHOWCASE ═══════ -->
+    <section class="section" id="koans" aria-labelledby="koans-title">
+        <div class="section-header reveal">
+            <p class="section-tag">Mumonkan</p>
+            <h2 class="section-title" id="koans-title">La Puerta Sin Puerta</h2>
+            <p class="section-desc">Cada kōan es un cortocircuito diseñado para la mente que clasifica. Aquí los traducimos al lenguaje que esa mente entiende — para que después la mente los suelte.</p>
+        </div>
+
+        <div class="koan-showcase reveal">
+            <div class="koan-tabs" id="koanTabs" role="tablist" aria-label="Seleccionar kōan">
+                <button class="koan-tab active" data-koan="0" role="tab" aria-selected="true" aria-controls="koan-0">Caso 1 · Mu</button>
+                <button class="koan-tab" data-koan="1" role="tab" aria-selected="false" aria-controls="koan-1">Caso 12 · Zuigan</button>
+                <button class="koan-tab" data-koan="2" role="tab" aria-selected="false" aria-controls="koan-2">Caso 14 · El Gato</button>
+                <button class="koan-tab" data-koan="3" role="tab" aria-selected="false" aria-controls="koan-3">Caso 16 · La Campana</button>
+            </div>
+
+            <div class="koan-content active" data-koan="0" id="koan-0" role="tabpanel">
+                <div class="koan-number" aria-hidden="true">01</div>
+                <h3 class="koan-title">El «Mu» de Joshu</h3>
+                <p class="koan-metaphor">Systematic Logic Jammer · Null / Undefined</p>
+                <div class="koan-text">
+                    <p>Un monje le preguntó a Joshu: <em>«¿Tiene un perro naturaleza búdica?»</em>. Joshu respondió: <em>«¡Mu!»</em>.</p>
+                    <br>
+                    <p>En nuestra cultura de datos y algoritmos, el monje está pidiendo un bit de información. Joshu, en cambio, le devuelve un <strong>error de sistema</strong>. «Mu» no es un cero —que es una cantidad— es un estado <em>Null</em> o <em>Undefined</em> que indica que la pregunta no puede resolverse dentro del sistema en que fue formulada.</p>
+                    <br>
+                    <p>A diferencia de un error informático que detiene el programa, el «Mu» del Zen es un error que <strong>libera</strong> al usuario. Libera porque fuerza a salir del sistema binario y examinar la pregunta antes de intentar responderla.</p>
+                </div>
+                <div class="koan-question">Si el perro tiene naturaleza búdica y tú tienes naturaleza búdica, ¿quién es el que está haciendo la pregunta en este momento?</div>
+            </div>
+
+            <div class="koan-content" data-koan="1" id="koan-1" role="tabpanel">
+                <div class="koan-number" aria-hidden="true">12</div>
+                <h3 class="koan-title">Zuigan llama a su propio amo</h3>
+                <p class="koan-metaphor">Self-referential Loop · Observer Pattern</p>
+                <div class="koan-text">
+                    <p>Cada mañana, el maestro Zuigan se sentaba y se llamaba a sí mismo: <em>«¡Amo!»</em>. Y respondía: <em>«¡Sí!»</em>. Luego añadía: <em>«¿Estás despierto?»</em>. Y respondía: <em>«¡Sí, sí!»</em>.</p>
+                    <br>
+                    <p>En arquitectura de software existe el <strong>Observer Pattern</strong>: un objeto se suscribe a otro para recibir notificaciones de sus cambios de estado. El problema surge cuando intentas aplicar ese patrón a un sistema que debe observarse a sí mismo. Si el observador y el sujeto son el mismo objeto, ¿quién notifica a quién?</p>
+                    <br>
+                    <p>Zuigan resuelve este problema de una forma que ningún compilador puede: <strong>mantiene la tensión del loop sin colapsar</strong>. Son la misma presencia vista desde dos funciones distintas.</p>
+                </div>
+                <div class="koan-question">Cada mañana, antes de mirar el teléfono, antes del primer pensamiento sobre el día, hay un instante en que simplemente eres. ¿Quién vive en ese instante?</div>
+            </div>
+
+            <div class="koan-content" data-koan="2" id="koan-2" role="tabpanel">
+                <div class="koan-number" aria-hidden="true">14</div>
+                <h3 class="koan-title">Nansen corta el gato</h3>
+                <p class="koan-metaphor">Split-brain · Deadlock Resolution</p>
+                <div class="koan-text">
+                    <p>Los monjes del ala Este y los del ala Oeste disputaban por un gato. Nansen tomó el gato y declaró: <em>«Si alguno puede decir una palabra, el gato se salva»</em>. Silencio. Nansen cortó el gato.</p>
+                    <br>
+                    <p>En bases de datos distribuidas, el <strong>split-brain</strong> ocurre cuando una red se divide y los dos segmentos continúan operando como si fueran el sistema completo. Nansen ejecuta la única operación disponible cuando el consenso falla: <strong>forzar el cierre del recurso en disputa</strong>.</p>
+                    <br>
+                    <p>Más tarde, Joshu se puso la sandalia en la cabeza. Nansen dijo: <em>«Si hubieras estado ahí, el gato se habría salvado»</em>. La sandalia es la respuesta que existe <strong>fuera del plano donde se define el conflicto</strong>.</p>
+                </div>
+                <div class="koan-question">¿Puedes encontrar el gesto que no le pertenece a ninguna de las dos partes en conflicto? ¿La sandalia que se puede poner en la cabeza?</div>
+            </div>
+
+            <div class="koan-content" data-koan="3" id="koan-3" role="tabpanel">
+                <div class="koan-number" aria-hidden="true">16</div>
+                <h3 class="koan-title">Yunmen y la campana</h3>
+                <p class="koan-metaphor">Automated Event Handler · Cron Job sin auditoría</p>
+                <div class="koan-text">
+                    <p>Yunmen dijo: <em>«El mundo es vasto y amplio. ¿Por qué te pones el kesa de siete paneles al oír la campana?»</em></p>
+                    <br>
+                    <p>En arquitectura event-driven, un <strong>event handler</strong> se ejecuta automáticamente cuando un evento es disparado. El peligro aparece cuando el handler lleva tanto tiempo funcionando que nadie recuerda por qué fue escrito. El equivalente espiritual de un proceso programado que ya nadie audita.</p>
+                    <br>
+                    <p>Yunmen no dice que esté mal responder a la campana. Dice: <em>el mundo es vasto y amplio</em>. ¿Respondes desde la totalidad de tu ser o desde un <strong>script</strong> que olvidó su propósito?</p>
+                </div>
+                <div class="koan-question">Mañana por la mañana sonará tu primera alarma del día. ¿Qué parte de ti responde a esa alarma? ¿Es la misma parte que ve la vastedad del día que comienza?</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════ MÉTODO ═══════ -->
+    <section class="section" id="metodo" aria-labelledby="metodo-title">
+        <div class="section-header reveal">
+            <p class="section-tag">Principios</p>
+            <h2 class="section-title" id="metodo-title">Cómo leemos el Zen</h2>
+            <p class="section-desc">Cuatro principios editoriales que guían cada capítulo del compendio.</p>
+        </div>
+
+        <div class="method-grid">
+            <div class="method-card reveal">
+                <div class="method-icon" aria-hidden="true">均</div>
+                <h3 class="method-title">Balance 50 / 50</h3>
+                <p class="method-text">Cada capítulo equilibra fidelidad doctrinal y accesibilidad occidental. No hay misticismo orientalista vacío, ni reducción del Zen a productividad o bienestar como fin en sí mismo.</p>
+            </div>
+
+            <div class="method-card reveal">
+                <div class="method-icon" aria-hidden="true">橋</div>
+                <h3 class="method-title">Metáforas puente</h3>
+                <p class="method-text">Las analogías técnicas —race conditions, observer patterns, event handlers— no son ornamento: son herramientas de comprensión. Y cada una incluye su propio límite, el punto donde la comparación deja de ser válida.</p>
+            </div>
+
+            <div class="method-card reveal">
+                <div class="method-icon" aria-hidden="true">坐</div>
+                <h3 class="method-title">Práctica encarnada</h3>
+                <p class="method-text">Cada capítulo termina con instrucciones concretas para zazen y la vida diaria. El Zen no es teoría que se lee una vez y se archiva: es una disciplina que se habita.</p>
+            </div>
+
+            <div class="method-card reveal">
+                <div class="method-icon" aria-hidden="true">界</div>
+                <h3 class="method-title">Puente cultural</h3>
+                <p class="method-text">El compendio nació para quien vive en Europa, en América Latina o en cualquier lugar donde exista la misma pregunta: ¿cómo integrar siglos de sabiduría oriental en una vida concreta, cotidiana y occidental?</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- ═══════ FOOTER ═══════ -->
+    <footer class="footer">
+        <p class="footer-logo">Over<em>Power</em> · Zen Compendium</p>
+        <p class="footer-quote" id="footerQuote" aria-live="polite"></p>
+        <p class="footer-text">Un proyecto de traducción contemplativa. Sin prisas. Sin promesas de resultado rápido.</p>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/landing.js"></script>
+</body>
+</html>

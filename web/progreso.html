@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="OverPower — Tu progreso en el compendio Zen. Capítulos leídos, términos descubiertos y camino por recorrer.">
+    <title>Progreso · OverPower Zen Compendium</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="stylesheet" href="css/tokens.css">
+    <link rel="stylesheet" href="css/progreso.css">
+    <link rel="stylesheet" href="css/search.css">
+</head>
+<body class="progreso-page">
+
+    <!-- NAV -->
+    <nav class="nav" id="nav" aria-label="Navegación principal">
+        <a href="index.html" class="nav-logo">Over<em>Power</em></a>
+        <ul class="nav-links">
+            <li class="nav-hide-mobile">
+                <button class="nav-search-btn" id="searchTrigger" aria-label="Buscar (Ctrl+K)">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                        <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+                    </svg>
+                    Buscar <span class="srch-hint">⌘K</span>
+                </button>
+            </li>
+            <li class="nav-hide-mobile"><a href="explorar.html">Explorar</a></li>
+            <li class="nav-hide-mobile"><a href="glosario.html">Glosario</a></li>
+            <li class="nav-hide-mobile"><a href="practica.html">Práctica</a></li>
+            <li><a href="progreso.html" class="nav-cta" aria-current="page">Progreso</a></li>
+        </ul>
+    </nav>
+
+    <!-- ═══════ HERO ═══════ -->
+    <div class="progreso-hero">
+        <div>
+            <p class="progreso-greeting">Tu camino · OverPower</p>
+            <h1 class="progreso-title">Panel de estudio</h1>
+            <p class="progreso-subtitle">
+                Un registro de tu recorrido por el compendio. Sin evaluaciones, sin ranking — solo claridad sobre lo que has explorado y lo que queda por descubrir.
+            </p>
+        </div>
+        <div class="global-stats" role="list" aria-label="Estadísticas globales">
+            <div class="gstat" role="listitem">
+                <span class="gstat-value" id="statRead">0</span>
+                <span class="gstat-label">Leídos</span>
+            </div>
+            <div class="gstat" role="listitem">
+                <span class="gstat-value" id="statTotal">–</span>
+                <span class="gstat-label">Capítulos</span>
+            </div>
+            <div class="gstat" role="listitem">
+                <span class="gstat-value" id="statTerms">0</span>
+                <span class="gstat-label">Términos</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════ LEVEL RINGS ═══════ -->
+    <div class="progreso-section">
+        <p class="section-label-small">Progreso por nivel</p>
+        <div class="rings-grid" id="ringsGrid" aria-label="Progreso por nivel">
+            <!-- Built by progreso.js -->
+        </div>
+    </div>
+
+    <!-- ═══════ VOCABULARY METER ═══════ -->
+    <div class="progreso-section">
+        <p class="section-label-small">Vocabulario descubierto</p>
+        <div class="vocab-card">
+            <div class="vocab-header">
+                <h2 class="vocab-title">Glosario puente</h2>
+                <span class="vocab-fraction" aria-label="Términos descubiertos">
+                    <span id="vocabFound">0</span>/<span id="vocabTotal">25</span>
+                </span>
+            </div>
+            <div class="vocab-bar-wrap" role="progressbar" aria-valuenow="0" aria-valuemin="0" aria-valuemax="25">
+                <div class="vocab-bar" id="vocabBar"></div>
+            </div>
+            <div class="vocab-terms" id="vocabTags">
+                <!-- Built by progreso.js -->
+            </div>
+        </div>
+    </div>
+
+    <!-- ═══════ RECENTLY READ ═══════ -->
+    <div class="progreso-section">
+        <p class="section-label-small">Capítulos leídos</p>
+        <div class="recently-grid" id="recentlyGrid" role="list" aria-label="Capítulos leídos recientemente">
+            <!-- Built by progreso.js -->
+        </div>
+    </div>
+
+    <!-- ═══════ CONTINUE BANNER ═══════ -->
+    <div class="continue-banner">
+        <div id="continueBanner">
+            <!-- Built by progreso.js -->
+        </div>
+    </div>
+
+    <script src="js/data.js"></script>
+    <script src="js/progreso.js"></script>
+    <script src="js/search.js"></script>
+</body>
+</html>

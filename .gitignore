@@ -1,0 +1,15 @@
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos temporales
+*.tmp
+*.bak
+~$*.docx
+
+# Ignorar entorno Python si lo hubiera
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/

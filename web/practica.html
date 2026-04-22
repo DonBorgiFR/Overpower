@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="OverPower Práctica — Un espacio de contemplación con las preguntas de los textos Zen del compendio.">
+    <title>Práctica · OverPower Zen Compendium</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link rel="stylesheet" href="css/tokens.css">
+    <link rel="stylesheet" href="css/search.css">
+    <link rel="stylesheet" href="css/practica.css">
+</head>
+<body class="practica-page">
+
+    <!-- NAV (minimal) -->
+    <nav class="nav" id="nav" aria-label="Navegación principal">
+        <a href="index.html" class="nav-logo">Over<em>Power</em></a>
+        <ul class="nav-links">
+            <li class="nav-hide-mobile">
+                <button class="nav-search-btn" id="searchTrigger" aria-label="Buscar (Ctrl+K)">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                        <circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/>
+                    </svg>
+                    Buscar
+                    <span class="srch-hint">⌘K</span>
+                </button>
+            </li>
+            <li class="nav-hide-mobile"><a href="explorar.html">Explorar</a></li>
+            <li class="nav-hide-mobile"><a href="glosario.html">Glosario</a></li>
+            <li><a href="progreso.html">Progreso</a></li>
+        </ul>
+    </nav>
+
+    <!-- ═══════ MAIN STAGE ═══════ -->
+    <main class="practice-stage" role="main" aria-label="Práctica contemplativa">
+
+        <!-- Breath ambient -->
+        <div class="breath-ring" aria-hidden="true"></div>
+
+        <!-- Question -->
+        <div class="practice-question-wrap">
+            <div class="practice-question" id="practiceQuestion" aria-live="polite">
+                <!-- Rendered by practica.js -->
+            </div>
+        </div>
+
+        <!-- Source reveal -->
+        <div class="practice-source" id="practiceSource" aria-live="polite">
+            <!-- Rendered by practica.js -->
+        </div>
+
+        <!-- Controls: prev, timer, next, shuffle -->
+        <div class="practice-controls" id="practiceControls">
+
+            <!-- Prev -->
+            <button class="practice-nav-btn prev" id="prevQuestion" aria-label="Pregunta anterior">
+                <svg class="nav-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M19 12H5M12 19l-7-7 7-7"/>
+                </svg>
+                Anterior
+            </button>
+
+            <!-- Timer -->
+            <div class="timer-group" role="group" aria-label="Temporizador de meditación">
+                <button class="timer-pill" data-mins="1" aria-label="1 minuto">1 min</button>
+                <button class="timer-pill" data-mins="3" aria-label="3 minutos">3 min</button>
+                <button class="timer-pill" data-mins="5" aria-label="5 minutos">5 min</button>
+            </div>
+
+            <!-- Shuffle -->
+            <button class="shuffle-btn" id="shuffleBtn" aria-label="Pregunta aleatoria" title="Aleatorio">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <polyline points="16 3 21 3 21 8"/><line x1="4" y1="20" x2="21" y2="3"/>
+                    <polyline points="21 16 21 21 16 21"/><line x1="15" y1="15" x2="21" y2="21"/>
+                </svg>
+            </button>
+
+            <!-- Next -->
+            <button class="practice-nav-btn next" id="nextQuestion" aria-label="Siguiente pregunta">
+                Siguiente
+                <svg class="nav-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                </svg>
+            </button>
+
+        </div>
+
+    </main>
+
+    <!-- ═══════ TIMER RING (fixed) ═══════ -->
+    <div class="timer-display" id="timerDisplay" aria-label="Temporizador activo" aria-live="polite">
+        <div class="timer-ring-wrap" title="Haz clic para detener">
+            <svg class="timer-svg" width="80" height="80" viewBox="0 0 80 80" aria-hidden="true">
+                <circle class="timer-track" cx="40" cy="40" r="35"/>
+                <circle class="timer-arc" id="timerArc" cx="40" cy="40" r="35"/>
+            </svg>
+            <div class="timer-center-text" id="timerCenterText">00:00</div>
+        </div>
+        <button class="timer-stop-btn" id="timerStop" aria-label="Detener temporizador">Detener</button>
+    </div>
+
+    <!-- ═══════ PROGRESS DOTS (fixed) ═══════ -->
+    <nav class="practice-dots" id="practiceDots" aria-label="Progreso de preguntas">
+        <!-- Built by practica.js -->
+    </nav>
+
+    <script src="js/data.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/practica.js"></script>
+</body>
+</html>

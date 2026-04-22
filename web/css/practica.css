@@ -1,0 +1,307 @@
+/* ═══════════════════════════════════════
+   OVERPOWER · PRÁCTICA CONTEMPLATIVA
+═══════════════════════════════════════ */
+
+/* ─── PAGE ─── */
+.practica-page {
+    min-height: 100vh;
+    background: var(--bg-deep);
+    display: flex;
+    flex-direction: column;
+}
+
+/* ─── NAV OVERRIDE (minimal for this page) ─── */
+.practica-page .nav {
+    background: transparent;
+    border-bottom: none;
+}
+.practica-page .nav.scrolled {
+    background: rgba(10, 10, 10, 0.9);
+    border-bottom-color: var(--border-subtle);
+}
+
+/* ─── MAIN PRACTICE AREA ─── */
+.practice-stage {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    min-height: calc(100vh - 65px);
+    margin-top: 65px;
+}
+
+/* ─── BREATH INDICATOR (ambient pulse) ─── */
+.breath-ring {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent-gold);
+    opacity: 0.4;
+    margin-bottom: 3rem;
+    animation: breathe 5s ease-in-out infinite;
+    flex-shrink: 0;
+}
+
+@keyframes breathe {
+    0%, 100% { transform: scale(1); opacity: 0.3; }
+    50%       { transform: scale(3); opacity: 0.6; }
+}
+
+/* ─── QUESTION TEXT ─── */
+.practice-question-wrap {
+    max-width: 640px;
+    text-align: center;
+    position: relative;
+}
+
+.practice-question {
+    font-family: var(--font-display);
+    font-size: clamp(1.15rem, 2.5vw, 1.55rem);
+    font-weight: 300;
+    line-height: 1.85;
+    color: var(--text-primary);
+    letter-spacing: 0.01em;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+}
+.practice-question.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+.practice-question em {
+    font-style: italic;
+    color: var(--accent-gold);
+}
+.practice-question strong {
+    font-style: normal;
+    color: var(--text-primary);
+    font-weight: 400;
+}
+
+/* ─── SOURCE REVEAL ─── */
+.practice-source {
+    margin-top: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.6rem;
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 0.5s 0.2s ease, transform 0.5s 0.2s ease;
+}
+.practice-source.visible { opacity: 1; transform: translateY(0); }
+
+.source-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.20em;
+    text-transform: uppercase;
+    color: var(--text-tertiary);
+}
+
+.source-reveal-btn {
+    background: none;
+    border: 1px solid var(--border-subtle);
+    border-radius: var(--radius-md);
+    padding: 0.5rem 1.1rem;
+    color: var(--text-tertiary);
+    font-family: var(--font-body);
+    font-size: 0.80rem;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.source-reveal-btn:hover {
+    border-color: var(--accent-gold);
+    color: var(--accent-gold);
+}
+
+.source-chapter {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+    text-align: center;
+}
+.source-chapter.revealed { display: flex; }
+
+.source-chapter-num {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: 300;
+    color: var(--border-subtle);
+    line-height: 1;
+}
+.source-chapter-title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--text-secondary);
+}
+.source-chapter-link {
+    font-size: 0.72rem;
+    color: var(--text-tertiary);
+    text-decoration: none;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: color var(--transition-fast);
+    margin-top: 0.2rem;
+}
+.source-chapter-link:hover { color: var(--accent-gold); }
+
+/* ─── CONTROLS BAR ─── */
+.practice-controls {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    margin-top: 3.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.5s 0.3s ease;
+}
+.practice-controls.visible { opacity: 1; }
+
+/* Prev / Next navigation */
+.practice-nav-btn {
+    background: none;
+    border: none;
+    padding: 0.5rem;
+    color: var(--text-tertiary);
+    cursor: pointer;
+    transition: color var(--transition-fast), transform 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+}
+.practice-nav-btn:hover { color: var(--text-primary); }
+.practice-nav-btn:hover .nav-arrow { transform: translateX(var(--shift, 0)); }
+.practice-nav-btn.prev .nav-arrow { --shift: -4px; }
+.practice-nav-btn.next .nav-arrow { --shift: 4px; }
+
+/* Timer selector */
+.timer-group {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.timer-pill {
+    padding: 0.35rem 0.8rem;
+    border: 1px solid var(--border-subtle);
+    border-radius: 100px;
+    background: none;
+    color: var(--text-tertiary);
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+.timer-pill:hover { border-color: var(--border-accent); color: var(--text-secondary); }
+.timer-pill.active { background: var(--accent-gold-dim); border-color: var(--accent-gold); color: var(--accent-gold); }
+
+/* Shuffle button */
+.shuffle-btn {
+    background: none; border: none;
+    color: var(--text-tertiary);
+    cursor: pointer;
+    padding: 0.4rem;
+    transition: color var(--transition-fast), transform 0.4s ease;
+    display: flex;
+}
+.shuffle-btn:hover { color: var(--accent-gold); }
+.shuffle-btn.spinning { transform: rotate(360deg); }
+
+/* ─── TIMER DISPLAY ─── */
+.timer-display {
+    position: fixed;
+    bottom: 2.5rem;
+    right: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.4s ease;
+}
+.timer-display.active { opacity: 1; pointer-events: auto; }
+
+.timer-ring-wrap {
+    position: relative;
+    width: 80px; height: 80px;
+    cursor: pointer;
+}
+.timer-svg { transform: rotate(-90deg); }
+.timer-track {
+    fill: none;
+    stroke: var(--border-subtle);
+    stroke-width: 5;
+}
+.timer-arc {
+    fill: none;
+    stroke: var(--accent-gold);
+    stroke-width: 5;
+    stroke-linecap: round;
+    stroke-dasharray: 219.91; /* 2π × 35 */
+    stroke-dashoffset: 0;
+    transition: stroke-dashoffset 1s linear;
+}
+.timer-center-text {
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: var(--font-display);
+    font-size: 0.82rem;
+    font-weight: 300;
+    color: var(--text-primary);
+    line-height: 1;
+    text-align: center;
+}
+.timer-stop-btn {
+    font-size: 0.62rem;
+    color: var(--text-tertiary);
+    background: none;
+    border: none;
+    cursor: pointer;
+    margin-top: 0.4rem;
+    font-family: var(--font-body);
+    transition: color var(--transition-fast);
+}
+.timer-stop-btn:hover { color: var(--accent-gold); }
+
+/* Done state */
+.timer-done-glow .timer-arc { stroke: var(--accent-sage); }
+
+/* ─── PROGRESS DOTS ─── */
+.practice-dots {
+    position: fixed;
+    bottom: 2.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+}
+.practice-dot {
+    width: 5px; height: 5px;
+    border-radius: 50%;
+    background: var(--border-subtle);
+    transition: all 0.3s;
+    cursor: pointer;
+}
+.practice-dot.active { background: var(--accent-gold); transform: scale(1.4); }
+.practice-dot.done { background: var(--border-accent); }
+
+/* ─── RESPONSIVE ─── */
+@media (max-width: 600px) {
+    .practice-question { font-size: 1.1rem; }
+    .timer-display { bottom: 1.5rem; right: 1.5rem; }
+    .practice-dots { bottom: 1.5rem; }
+    .practice-controls { gap: 1rem; }
+}
