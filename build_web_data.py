@@ -27,11 +27,11 @@ def parse_markdown_file(filepath):
 
     title_match = re.search(r'^#\s+(.+)', content, re.MULTILINE)
     full_title = title_match.group(1).strip() if title_match else filename
-    if ":" in full_title:
-        title, subtitle = [x.strip() for x in full_title.split(':', 1)]
-    else:
-        title = full_title
-        subtitle = ""
+    # Remove redundant prefix if present
+    full_title = re.sub(r'^[Cc]ap[íi]tulo:\s*', '', full_title)
+    
+    title = full_title
+    subtitle = ""
 
     apertura_match = re.search(r'## 1\. Apertura(.*?)(?:## 2\.)', content, re.DOTALL)
     apertura = apertura_match.group(1).strip() if apertura_match else ""
