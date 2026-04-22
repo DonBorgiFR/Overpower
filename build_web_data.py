@@ -83,10 +83,10 @@ def parse_markdown_file(filepath):
     }
 
 def main():
-    files = glob.glob('*.md')
+    files = glob.glob('content/*.md')
     chapters = []
     for f in files:
-        if re.match(r'^\d\d_', f):
+        if re.match(r'^\d\d_', os.path.basename(f)):
             chap = parse_markdown_file(f)
             if chap:
                 chapters.append(chap)
