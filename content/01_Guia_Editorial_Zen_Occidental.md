@@ -1,93 +1,80 @@
-# Guia Editorial Zen-Occidental v1
+# Guía Editorial Zen-Occidental v1
 
 ## Objetivo
 
-Traducir el saber budista zen a un publico occidental contemporaneo sin perder rigor doctrinal ni convertir el contenido en autoayuda superficial. Las metaforas tecnicas (ingenieria de software, ciencia cognitiva, arquitectura de sistemas) sirven como *puentes de comprension*, no como sustitutos del contenido original.
+Traducir el saber budista Zen a un público occidental contemporáneo sin perder rigor doctrinal ni convertir el contenido en autoayuda superficial. Las metáforas deben ser *humanas y universales* (relaciones, naturaleza, labores domésticas, vida cotidiana), evitando la jerga técnica o informática (servidores, código, reinicios) para asegurar que el mensaje sea accesible a cualquier persona, independientemente de su formación tecnológica.
 
-## Principios (50/50)
+## Principios (Humano-Centrados)
 
-- Fidelidad doctrinal: Mantener sentido original de conceptos, contexto historico y funcion en la practica.
-- Accesibilidad cultural: Usar lenguaje claro, ejemplos cotidianos y puentes con experiencias occidentales.
-- Anti-exotizacion: Evitar mistificacion orientalista y frases vacias.
-- Anti-reduccionismo: No traducir Zen a productividad, motivacion o bienestar como unico fin.
-- Limites explicitos: Toda metafora tecnica debe incluir una seccion «El limite de la analogia» que aclare donde la comparacion deja de ser valida.
+- **Fidelidad doctrinal**: Mantener el sentido original de los conceptos y su función en la práctica.
+- **Accesibilidad universal**: Usar lenguaje claro y ejemplos basados en experiencias interhumanas compartidas.
+- **Evitar la jerga técnica**: No usar analogías basadas en informática, ingeniería o entornos digitales. Preferir metáforas de la vida diaria: el hogar, el cuerpo, el clima, los vínculos.
+- **Límites explícitos**: Toda analogía debe incluir una subsección «El límite de la analogía» que aclare dónde la comparación deja de ser válida.
 
-## Regla de Traduccion de Terminos
+## Regla de Traducción de Términos
 
-En la primera aparicion de cada termino:
+En la primera aparición de cada término técnico:
 
-1. Termino original (sanscrito/chino/japones).
-2. Traduccion funcional en espanol simple.
-3. Explicacion breve de uso practico.
-4. Riesgo de malinterpretacion comun.
+1. Término original (sánscrito/chino/japonés).
+2. Traducción funcional en español simple.
+3. Explicación breve de su uso práctico.
+4. Riesgo de malinterpretación común.
 
 Formato recomendado:
-- Termino: "sunyata (vacuidad)"
-- Traduccion puente: "nada existe por si solo"
-- En practica: "ver relaciones en vez de esencias fijas"
+- Término: "sunyata (vacuidad)"
+- Traducción puente: "nada existe por sí solo"
+- En práctica: "ver relaciones en vez de esencias fijas"
 - Evitar: "la nada nihilista"
 
 ## Tono Narrativo
 
-- Divulgacion contemporanea, sobria y directa.
+- Divulgación contemporánea, sobria y directa.
 - Frases cortas cuando se introducen ideas complejas.
-- Evitar jerga academica innecesaria.
-- Mantener una voz contemplativa, no dogmatica.
-- Las metaforas tecnicas deben *servir* al concepto, no competir con el.
+- Evitar jerga académica o esotérica innecesaria.
+- Mantener una voz contemplativa que hable directamente al lector.
+- Las analogías deben *servir* al concepto, no distraer con tecnicismos.
 
-## Estructura Estandar de Capitulo (8 secciones)
+## Estructura Estándar de Capítulo (8 secciones)
 
-Cada capitulo debe contener las siguientes secciones, numeradas del 1 al 8:
+Cada capítulo debe contener las siguientes secciones, numeradas del 1 al 8:
 
-1. **Apertura** — Idea nuclear en 2-4 parrafos. Por que este texto importa.
-2. **Contexto doctrinal e historico** — Origen, linaje, conceptos nucleares.
-3. **Traduccion occidental guiada** — Reformulacion en lenguaje contemporaneo con al menos 2 analogias, cada una con su limite explicito.
-4. **Nucleo de practica** — Como se encarna en zazen y en la vida diaria. Que evitar.
-5. **Pregunta contemplativa de cierre** — Pregunta abierta que no se responde con teoria.
-6. **Errores comunes de interpretacion** — Exactamente 3 errores, con correccion.
-7. **Mini-glosario local** — 3-5 terminos tecnicos usados en el capitulo, definicion de una linea.
+1. **Apertura** — Idea nuclear en 2-4 párrafos. Explica por qué este texto importa en la práctica Zen y qué problema humano aborda.
+2. **Contexto doctrinal e histórico** — Origen, linaje y conceptos nucleares.
+3. **Traducción occidental guiada** — Reformulación en lenguaje contemporáneo con al menos 2 analogías humanas, cada una con su límite explícito.
+4. **Núcleo de práctica** — Cómo se encarna en zazen y en la vida diaria. Qué evitar.
+5. **Pregunta contemplativa de cierre** — Una pregunta abierta que no se responde con teoría. No incluir «Contemplación:» como prefijo.
+6. **Errores comunes de interpretación** — Exactamente 3 errores, con su corrección.
+7. **Mini-glosario local** — 3-5 términos técnicos usados en el capítulo, con definición de una línea.
 8. **Referencias** — Fuente primaria + al menos 1 fuente secundaria.
 
-## Formato de Metadatos (cabecera)
+## Formato de Metadatos (Cabecera)
 
-Formato plano, sin negrita, sin subtitulos decorativos en la seccion:
+Formato plano, sin negrita, sin subtítulos decorativos:
 
 ```markdown
 ## Metadatos
+
 - Nivel del corpus: [Nivel X — Nombre]
-- Texto fuente principal: [Titulo]
+- Texto fuente principal: [Título]
 - Escuela predominante: [Soto/Rinzai/Ambas/Chan]
-- Tipo de texto: [sutra, poema, koan, tratado, biografia]
-- Publico principal de esta version: [Descripcion de una linea]
+- Tipo de texto: [sutra, poema, koan, tratado, biografía]
+- Público principal de esta versión: [Descripción de una línea]
 ```
 
-## Formato de Titulo (H1)
+## Checklist de Calidad por Capítulo
 
-El H1 del capitulo NO incluye el numero de archivo. Formato correcto:
-- ✅ `# Bodhidharma: El Hard Reset del Zen`
-- ❌ `# 17_Capitulo_Bodhidharma_El_Muro: El Hard Reset del Zen`
-
-## Checklist de Calidad por Capitulo
-
-- [ ] Incluye al menos 1 cita o referencia primaria del corpus base.
-- [ ] Define todos los terminos tecnicos usados por primera vez.
-- [ ] Tiene ejemplo occidental sin trivializar la doctrina.
-- [ ] Incluye seccion «El limite de la analogia» en cada metafora.
-- [ ] 3 errores comunes de interpretacion documentados.
-- [ ] Pregunta contemplativa de cierre presente.
-- [ ] Evita promesas de resultado rapido.
-- [ ] Mantiene coherencia con glosario oficial del proyecto.
-
-## Publico Objetivo
-
-- Lectores principiantes con interes filosofico o espiritual.
-- Practicantes iniciales de meditacion.
-- Profesionales tecnicos que buscan precision conceptual sin misticismo.
-- Lectores con formacion humanista o cientifica.
+- [ ] Incluye al menos 1 cita o referencia primaria.
+- [ ] Define todos los términos técnicos usados.
+- [ ] Tiene ejemplos humanos sin trivializar la doctrina (NO usar jerga informática).
+- [ ] Incluye sección «El límite de la analogía» en cada metáfora.
+- [ ] Presenta 3 errores comunes de interpretación.
+- [ ] Pregunta contemplativa de cierre presente y directa.
+- [ ] Mantiene la ortografía correcta (acentos y tildes).
+- [ ] Mantiene coherencia con el Glosario Puente del proyecto.
 
 ## Lo que no haremos
 
-- Convertir Zen en terapia express.
-- Forzar equivalencias exactas con psicologia moderna.
-- Eliminar paradojas esenciales de la tradicion.
-- Usar metaforas tecnicas sin documentar su limite.
+- Convertir el Zen en terapia express o autoayuda.
+- Usar metáforas de servidores, software, hardware o procesos digitales.
+- Eliminar las paradojas esenciales de la tradición.
+- Usar lenguaje excesivamente místico u orientalista.
