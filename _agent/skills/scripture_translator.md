@@ -25,7 +25,7 @@ When asked to translate or explain a scripture from the base:
 4. **Draft the Translation**:
     - Avoid "autoayuda superficial" (shallow self-help).
     - Maintain "fidelidad doctrinal" (doctrinal fidelity).
-    - Use contemporary metaphors (e.g., "nada existe por si solo" for Emptiness).
+    - Use contemporary, human-centered metaphors (e.g., "nada existe por sí solo" for Emptiness). Strictly AVOID software, IT or engineering analogies.
 
 5. **Structure the Output**:
     - Follow the "Estructura Minima de Cada Seccion" from the Editorial Guide:

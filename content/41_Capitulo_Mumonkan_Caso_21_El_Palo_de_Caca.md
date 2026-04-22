@@ -1,4 +1,4 @@
-# Caso 21 - El Palo de Caca de Yunmen: Basura de Datos y la Naturaleza del Buda
+# Caso 21 - El Palo de Caca de Yunmen: Lo Descartable y la Naturaleza del Buda
 
 ## Metadatos
 
@@ -26,27 +26,27 @@ El comentario de Mumon añade una capa de ironía: «Podría decirse que Yunmen 
 
 ## 3. Traducción occidental guiada
 
-Dos metáforas tomadas de la arquitectura de sistemas permiten atravesar el núcleo de este koan sin traicionar su filo.
+Dos analogías de la vida cotidiana permiten atravesar el núcleo de este koan sin traicionar su filo.
 
-### La analogia de la Basura de Datos (Garbage Data)
+### La Analogía de la Maleza
 
-En programación y bases de datos, «garbage data» o «datos basura» son aquellos registros que un sistema registra pero que ningún proceso considera «valioso»: archivos temporales, logs de error acumulados, fragmentos de memoria sin referenciar, paquetes descartados por un router. El desarrollador busca la «información útil» —los datos limpios, procesados, validados— y para eso filtra, elimina y descarta to do lo demás como ruido.
+En la jardinería ornamental, la maleza es aquella planta que crece pero que el jardinero no considera «valiosa»: dientes de león, cardos, hierba silvestre. El amante de los jardines busca la «belleza pura» —las rosas, los tulipanes, los arbustos podados— y para eso filtra, arranca y descarta todo lo demás como molestia.
 
-Pero cualquier ingeniero de sistemas sabe que los logs de error contienen información que los datos «limpios» jamás capturan. Un *memory dump* genera el mapa más fiel del estado real del sistema en el momento del fallo. Un paquete descartado revela la topología real de la red bajo presión. La «basura» es el sistema funcionando en su modo más honesto.
+Pero cualquier biólogo sabe que la maleza contiene una vitalidad que las flores de invernadero jamás tendrán. Un campo de cardos es el mapa más fiel de un suelo. La maleza revela la fuerza indomable de la tierra bajo el sol. La «hierba mala» es el bosque funcionando en su modo más honesto.
 
-Cuando el monje pregunta «¿Qué es el Buda?», está pidiendo los «datos limpios y validados» de la Realidad. Yunmen señala hacia el *kanshiketsu* —el garbage data por excelencia del monasterio— para decir: «El Buda está justo aquí, en lo que estás filtrando y descartando como ruido».
-
-**El limite de la analogia**:
-Los datos basura en un sistema siguen siendo datos *sobre algo externo* al sistema; tienen una naturaleza representacional. En el Zen, la no-dualidad del *kanshiketsu* y el Buda no es que ambos «representen» la misma realidad abstracta: son la misma realidad, sin mediación. Usar la analogía de la información implica un observador que procesa; el koan apunta a disolver al observador, no a sofisticar su filtro.
-
-### La analogia del Estado del Sistema en Bruto (Raw System State)
-
-En depuración de bajo nivel (*bare-metal debugging*), cuando un sistema operativo se bloquea completamente, la herramienta más valiosa es el *core dump*: un volcado sin filtrar de toda la memoria en el momento exacto del fallo. No es una versión curada ni optimizada. Es el estado en bruto —incluyendo basura, fragmentos de procesos zombie, punteros colgantes (*dangling pointers*), y datos inconsistentes.
-
-El desarrollador inexperto busca el «error cometido»; el desarrollador experimentado lee el *core dump* como un poema: en su aparente desorden está escrita la verdad completa del sistema tal como era, sin la interfaz que lo embellece. La respuesta de Yunmen es exactamente un *core dump* del universo: no la versión limpia que el buscador espera, sino el estado en bruto de la realidad conteniendo la misma Naturaleza de Buda sin recortar.
+Cuando el monje pregunta «¿Qué es el Buda?», está pidiendo la «flor inmaculada» de la Realidad. Yunmen señala hacia el *kanshiketsu* —la maleza más repulsiva por excelencia del monasterio— para decir: «El Buda está justo aquí, en lo que estás arrancando y descartando como sucio».
 
 **El limite de la analogia**:
-Un *core dump* es producido por un fallo —es la señal de que algo roto necesita ser reparado. La realidad que Yunmen señala no es un sistema roto que necesita diagnóstico: es un sistema perfecto que nunca estuvo fragmentado. El palo de caca no es «el fallo del sistema»; es el sistema entero, impecable, funcionando tal como es.
+La maleza en un jardín sigue siendo una planta clasificada negativamente por la mente humana. En el Zen, la no-dualidad del *kanshiketsu* y el Buda no es que ambos «representen» a la misma naturaleza divina de forma poética: son la misma realidad cruda, sin jerarquías ni mediación humana. 
+
+### La Analogía de la Casa Desordenada
+
+Cuando recibimos una visita inesperada un domingo por la mañana, la primera reacción es esconder el desorden: tirar la ropa bajo la cama, meter los platos sucios en el horno, alisar los cojines. No queremos mostrar la versión en bruto de nuestra vida —incluyendo pijamas tirados, tazas manchadas de café y polvo en los rincones.
+
+El anfitrión inexperto se avergüenza del «desorden»; pero la visita íntima ve la casa revuelta como un acto de sinceridad: en su aparente caos está escrita la verdad completa de la vida tal como es, sin la máscara que la embellece socialmente. La respuesta de Yunmen es exactamente mostrar la casa del universo sin ordenar: no la versión limpia y perfumada que la visita espera encontrar, sino el estado en bruto de la realidad conteniendo la misma Naturaleza de Buda sin barrer.
+
+**El limite de la analogia**:
+Una casa desordenada es a menudo vista como un fracaso personal o la señal de que alguien no ha cumplido con sus deberes de limpieza. La realidad que Yunmen señala no es una vida descuidada que necesita ser adecentada: es una vida perfecta que nunca estuvo fragmentada. El palo de caca no es «el fracaso de la higiene»; es la casa entera, operando libre de la división entre lo puro y lo impuro.
 
 ## 4. Núcleo de práctica
 
@@ -68,7 +68,7 @@ Si ahora mismo, en este instante exacto —con el ruido de fondo que hay, con el
 
 - Kanshiketsu: Literalmente «palo de caca seco». Utensilio monacal medieval chino. En este koan, señal iconoclasta directa a la omnipresencia de la Naturaleza de Buda.
 - Ichiji-kan: Respuesta de una palabra o brevísima, técnica característica de Yunmen Wenyan, diseñada para cortar la elaboración conceptual instantáneamente.
-- Garbage data (datos basura): En sistemas informáticos, registros sin referencia válida o archivos descartados por inútiles. Analogía funcional del *kanshiketsu* como lo que el buscador filtra creyendo que no contiene al Buda.
+- Maleza: Planta despreciada en jardinería ornamental. Analogía funcional de lo que el buscador filtra creyendo que no contiene al Buda.
 - Bussho (Naturaleza de Buda): Potencial inherente de iluminación presente sin excepción en todos los fenómenos. En el Mahayana, no tiene territorialidad exclusiva: impregna lo sublime y lo trivial por igual.
 - Advaya: No-dualidad. Principio doctrinal que niega la existencia de pares irreconciliables como sagrado/profano, puro/impuro, Buda/no-Buda.
 

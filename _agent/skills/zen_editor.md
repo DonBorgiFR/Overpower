@@ -10,7 +10,7 @@ When this skill is invoked on a text or chapter, follow these steps:
     - Ensure fidelity to the original doctrine while maintaining Western accessibility.
     - Verify that the text avoids "orientalist mystification" (anti-exotization).
     - Ensure the Zen isn't reduced to mere "productivity" or "well-being" (anti-reductionism).
-    - Verify that every technical metaphor includes an explicit "limit of the analogy" section.
+    - Verify that every human/everyday metaphor includes an explicit "limit of the analogy" section. (Strictly AVOID technical, software or IT metaphors).
 
 2. **Verify Structure (8 Sections)**:
     - Section 1: Apertura (2-4 paragraphs).
@@ -40,7 +40,7 @@ When this skill is invoked on a text or chapter, follow these steps:
     - Ensure the tone is contemporary, sober, and direct.
     - Check for short sentences when introducing complex ideas.
     - Ensure the voice is contemplative, not dogmatic.
-    - Metaphors should *serve* the concept, not compete with it.
+    - Metaphors should be grounded in universal human experiences (psychology, social life, nature), avoiding any IT or tech jargon.
 
 6. **Final Checklist**:
     - [ ] At least 1 primary citation included.

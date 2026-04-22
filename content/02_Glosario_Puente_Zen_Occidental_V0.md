@@ -47,13 +47,13 @@ Este glosario fija un vocabulario compartido para el proyecto. Cada entrada incl
 ## 8) Upaya (medios habiles)
 
 - Definicion doctrinal: Formas de ensenar ajustadas al receptor.
-- Traduccion puente: "Mismo backend, distintas interfaces (UI)".
-- En practica: "El dedo que señala la luna es un puntero, no el valor".
-- Riesgo comun: adorar la interfaz y olvidar el servidor.
+- Traduccion puente: "Adaptar el mensaje al oyente, sin perder la esencia".
+- En practica: "El dedo que señala la luna; no te quedes mirando el dedo".
+- Riesgo comun: adorar el medio (el dedo) y olvidar el fin (la luna).
 
 ## 9) Tathagatagarbha (naturaleza budica)
 - Definicion doctrinal: Potencial de despertar presente en todos los seres.
-- Traduccion puente: "Capacidad de ejecucion nativa; el núcleo del sistema".
+- Traduccion puente: "La semilla de lucidez innata que ya tienes".
 - Riesgo comun: tratarla como un "archivo" fijo o alma.
 
 ## 10) Cittamatra (solo mente)
@@ -83,8 +83,8 @@ Este glosario fija un vocabulario compartido para el proyecto. Cada entrada incl
 
 ## 15) Mu
 - Definicion doctrinal: Negacion que corta la pregunta mal planteada.
-- Traduccion puente: "Error de sistema (Null/Undefined) que libera recursos".
-- En practica: "No generar logs de opinión durante el proceso".
+- Traduccion puente: "Cortocircuito mental que libera la percepción".
+- En practica: "Dejar de catalogar todo como bueno o malo".
 - Riesgo comun: confundir con apagar el monitor (mente en blanco).
 
 ## 16) Samadhi
@@ -99,9 +99,9 @@ Este glosario fija un vocabulario compartido para el proyecto. Cada entrada incl
 
 ## 18) Karma
 - Definicion doctrinal: Causalidad etica de acciones, palabras e intenciones.
-- Traduccion puente: "Deuda técnica y efectos secundarios (Side effects)".
-- En practica: "Toda acción escribe en la base de datos de tu realidad".
-- Riesgo comun: fatalismo o pensar que el código se depura solo.
+- Traduccion puente: "La ley del eco: todo lo que haces tiene consecuencias ineludibles".
+- En practica: "Cada acción moldea la persona en la que te estás convirtiendo".
+- Riesgo comun: confundirlo con un castigo cósmico o un destino fatalista.
 
 ## 19) Sila (etica)
 - Definicion doctrinal: Conducta alineada con no-dano y lucidez.
@@ -162,18 +162,18 @@ Este glosario fija un vocabulario compartido para el proyecto. Cada entrada incl
 
 ## 30) Maya (Ilusion)
 - Definicion doctrinal: La naturaleza engañosa y construida de las percepciones.
-- Traduccion puente: "Realidad virtual generada por el cerebro y el ego".
+- Traduccion puente: "El espejismo constante generado por nuestras expectativas".
 - Riesgo comun: creer que el mundo fisico es literalmente "nada".
 
 ## 31) Mushin (No-mente)
 - Definicion doctrinal: Estado mental libre de bloqueos egocéntricos.
-- Traduccion puente: "Fluidez libre de interferencias narrativas; modo kernel".
+- Traduccion puente: "Atención plena y fluida, sin la voz crítica narrando lo que pasa".
 - Riesgo comun: estado de inconsciencia o zombie.
 
 ## 32) Hishiryo (No-pensamiento)
 - Definicion doctrinal: Pensar desde el fondo del no-pensamiento.
-- Traduccion puente: "Procesamiento puro sin generación de logs".
-- En practica: "Ver los pensamientos como tráfico de red, no como el usuario".
+- Traduccion puente: "Pura presencia sin enredarse en la cadena de pensamientos".
+- En practica: "Ver los pensamientos como nubes que pasan, no subirte a ellas".
 - Riesgo comun: creer que es suprimir los pensamientos por la fuerza.
 
 ## 33) Shuinjinkou (主人公, Amo de la casa)
@@ -189,18 +189,18 @@ Este glosario fija un vocabulario compartido para el proyecto. Cada entrada incl
 
 ## 35) Heijoshin (平常心, Mente ordinaria)
 - Definicion doctrinal: La mente cotidiana, sin adornos ni estados alterados, como el camino mismo.
-- Traduccion puente: "El sistema funcionando en modo estandar, sin overclock".
+- Traduccion puente: "La mente equilibrada en la rutina, sin buscar sensaciones extraordinarias".
 - En practica: "La realizacion no requiere un estado especial; ya esta en la tarea que haces ahora".
 - Riesgo comun: usarla como excusa para no practicar ("como todo es Zen, no necesito zazen").
 
 ## 36) Angya (行脚, Peregrinaje)
 - Definicion doctrinal: Practica contemplativa de visitar distintos maestros para refinar la comprension.
-- Traduccion puente: "Recorrer nodos de la red para testear la propia profundidad".
-- Riesgo comun: acumular experiencias sin digerirlas; coleccionar maestros como coleccionar certificaciones.
+- Traduccion puente: "Viajar al encuentro de otros para contrastar y pulir la propia madurez".
+- Riesgo comun: el turismo espiritual; acumular experiencias sin que haya transformación interna.
 
 ## 37) Matsugo no ku (末後句, Ultima palabra)
 - Definicion doctrinal: Aquello que trasciende todas las formulaciones doctrinales; la experiencia directa no verbalizable.
-- Traduccion puente: "El conocimiento que no cabe en ningun log ni documentacion".
+- Traduccion puente: "El saber vivo que no cabe en ningún manual ni teoría".
 - Riesgo comun: convertirla en otro concepto que alcanzar.
 
 ## Convenciones de uso para el proyecto

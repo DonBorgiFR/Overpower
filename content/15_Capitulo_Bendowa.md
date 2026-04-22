@@ -9,7 +9,7 @@
 
 ## 1. Apertura
 
-El *Bendōwa* (1231) es la pieza de código fundacional del Zen Soto japonés. Al regresar de China, Dogen no trajo nuevos rituales, sino una visión radical: el despertar no es un destino al que se llega tras años de esfuerzo, sino la **frecuencia natural** de una vida alineada. Sentarse en zazen es el acto de "entrar en red" con la totalidad del universo. No es buscar el satori; es permitir que el satori se ejecute a través de ti.
+El *Bendōwa* (1231) es el texto fundacional del Zen Soto japonés. Al regresar de China, Dogen no trajo nuevos rituales, sino una visión radical: el despertar no es un destino al que se llega tras años de esfuerzo, sino la **frecuencia natural** de una vida alineada. Sentarse en zazen es el acto de "sincronizarse" con la totalidad del universo. No es buscar el satori; es permitir que el satori viva a través de ti.
 
 ## 2. Contexto doctrinal e histórico
 
@@ -20,19 +20,19 @@ Dogen escribió este texto para responder a 18 preguntas fundamentales sobre la 
 
 ## 3. Traducción occidental guiada
 
-### Analogía 1: Jijuyū Zanmai como "Autorregulación Homeostática"
+### Analogía 1: Jijuyū Zanmai como "El Músico en Estado de Flujo"
 
-En biología, la homeostasis mantiene la estabilidad del sistema frente al caos externo.
+En la psicología y el arte, el estado de flujo (flow) ocurre cuando la acción y la conciencia se funden.
 
-- Traducción puente: El "disfrute de sí mismo" de Dogen no es placer sensorial, es **Confort Operativo Máximo**. Imagina un corredor de fondo que encuentra su "ritmo de crucero": el cuerpo fluye, el esfuerzo desaparece y la acción se vuelve autosustentada. El Zazen es reajustar los parámetros de tu consciencia hasta que el sistema opera en su punto óptimo de **Mushin** (no-obstrucción).
-- Límite: La homeostasis biológica es para la supervivencia individual; el samadhi zen es para la disolución de la frontera entre el yo y el entorno.
+- Traducción puente: El "disfrute de sí mismo" de Dogen no es placer sensorial, es **Dominio sin Esfuerzo**. Imagina a un músico de jazz improvisando en su mejor noche: el cuerpo, el instrumento y la melodía son uno solo. El esfuerzo tenso desaparece y la acción se sostiene a sí misma. El Zazen es soltar el control excesivo de tu consciencia hasta que la mente opere en su punto óptimo de fluidez libre de obstrucciones (**Mushin**).
+- Límite: El músico necesita un instrumento externo y dominar una técnica; el samadhi zen es descubrir que la vida misma es el instrumento y no se necesita técnica especial para habitarla.
 
-### Analogía 2: Shushō Ittō como "Streaming del Absoluto"
+### Analogía 2: Shushō Ittō como "El Baile y la Música"
 
-Tradicionalmente, el despertar era como "descargar un archivo": trabajas mucho (descarga) y al final tienes el archivo (iluminación).
+Tradicionalmente, el despertar era visto como un viaje: caminas penosamente (la práctica) para llegar a un destino (la iluminación).
 
-- Traducción puente: Dogen propone el modelo **Streaming**. El proceso de recibir datos (practicar) es indisoluble de la experiencia del contenido (iluminación). No hay iluminación "almacenada" en el disco duro del pasado; si dejas de meditar, el streaming se corta. La realización ocurre **en tiempo real** o no ocurre en absoluto.
-- Límite: El streaming requiere una red externa; el despertar búdico es el descubrimiento de que tú eres la red.
+- Traducción puente: Dogen propone el modelo de **la danza**. No bailas para llegar a un lugar específico del salón de baile; el acto de bailar es inseparable del disfrute de la música. La realización ocurre **en el momento mismo de dar el paso**. No hay una iluminación acumulada en el pasado; si dejas de bailar, la danza termina. La iluminación ocurre en tiempo real o no ocurre.
+- Límite: Un baile tiene un inicio y un final temporal; el despertar búdico es la naturaleza constante de nuestra existencia.
 
 ## 4. Núcleo de práctica
 
@@ -55,8 +55,8 @@ Dogen afirma: *"Incluso un solo momento de zazen influye en todos los seres"*.
 
 - Jijuyū Zanmai: El samadhi de la realización libre; habitar tu propia naturaleza con plenitud.
 - Shushō Ittō: La unidad inseparable de la práctica y la iluminación (fin de la dualidad causa-efecto).
-- Mushin (No-Mente): La transparencia del sistema ante el flujo de la realidad.
-- Paramita: Las capacidades transversales que se ejecutan simultáneamente durante el Zazen.
+- Mushin (No-Mente): La transparencia de la mente ante el flujo de la realidad.
+- Paramita: Las capacidades transversales que florecen simultáneamente durante el Zazen.
 - Karuna (Compasión): En el *Bendōwa*, la compasión es la realización de que tu práctica individual sostiene el equilibrio de la red universal.
 - Maya: El error de creer que el despertar es algo que se adquiere en el futuro.
 

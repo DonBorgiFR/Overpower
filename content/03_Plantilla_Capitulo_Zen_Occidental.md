@@ -64,6 +64,6 @@ Una pregunta abierta que no se responde con teoria. No incluir «Contemplacion:�
 ## Notas de formato
 
 - Nombre de archivo: `XX_Capitulo_[Nombre_Sin_Acentos].md`
-- Titulo H1: `# [Titulo descriptivo]: [Subtitulo con metafora]`
+- Titulo H1: `# [Titulo descriptivo]: [Subtitulo con metafora humana/cotidiana]`
 - Seccion de glosario: siempre nombrada «Mini-glosario local» (no «del capitulo»)
 - Seccion de referencias: siempre numerada como §8
