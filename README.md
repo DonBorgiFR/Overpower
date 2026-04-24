@@ -9,7 +9,7 @@ Proyecto editorial para compilar saber budista zen de alto nivel y traducirlo a 
 | **Nivel 1** — Sutras Fundacionales | 10 capítulos (Fukanzazengi → Sutra de la Plataforma) | ✅ Completo |
 | **Nivel 2** — Patriarcas y Linaje | 4 capítulos (Historiografía, Bodhidharma, Huike/Sengcan, Montaña del Este) | ✅ Completo |
 | **Nivel 3** — Obras de Dōgen | 3 capítulos (Bendowa, Genjōkōan, Zazengi) | ✅ Completo |
-| **Nivel 4** — Mumonkan (Kōans) | 16 de 48 casos completados (33%) | 🔄 En progreso |
+| **Nivel 4** — Mumonkan (Kōans) | Refactorizando a metáforas humanas (Casos 2-9, 13) | 🔄 En progreso |
 | **Web** | Multi-página: landing + explorar (lector de capítulos) | ✅ Fase 1 completa |
 
 **Total**: 36 archivos (32 capítulos de contenido + 4 archivos editoriales).
@@ -89,18 +89,18 @@ OverPower/
 | # | Caso | Metáfora técnica |
 |---|---|---|
 | 21 | Caso 1: El Mu de Joshu | Systematic Logic Jammer / Null |
-| 22 | Caso 2: El Zorro de Hyakujo | Technical Debt (Karma) |
-| 23 | Caso 3: El Dedo de Gutei | Pointer vs Value |
-| 24 | Caso 4: El Bárbaro sin Barba | Hardcoded Bias / Metadata |
-| 25 | Caso 5: El Hombre en el Árbol | Deadlock |
-| 26 | Caso 6: La Flor de Buda | P2P Sync |
-| 27 | Caso 7: Lava tus Cuencos | Closing the Loop |
-| 28 | Caso 8: Los Carros de Keichū | Modular Deconstruction |
-| 29 | Caso 9: El Fuego de Daizui | Total System Wipe |
+| 22 | Caso 2: El Zorro de Hyakujo | El Arquitecto y la Gravedad (Causalidad) |
+| 23 | Caso 3: El Dedo de Gutei | El Loro y la Palabra (Imitación vs Realidad) |
+| 24 | Caso 4: El Bárbaro sin Barba | El Espejo y el Prejuicio (Etiquetas) |
+| 25 | Caso 5: El Hombre en el Árbol | El Dilema de la Integridad (Sin salida) |
+| 26 | Caso 6: La Flor de Buda | La Sonrisa del Silencio (Complicidad) |
+| 27 | Caso 7: Lava tus Cuencos | La Espiritualidad de lo Ordinario |
+| 28 | Caso 8: Los Carros de Keichū | El Violín y la Música (Esencia y Partes) |
+| 29 | Caso 9: El Fuego de Daizui | El Incendio de la Biblioteca (Extinción) |
 | 30 | Caso 10: Seizei es Pobre | Native Features |
 | 31 | Caso 11: Joshu y los Ermitaños | Deep Packet Inspection |
 | 32 | Caso 12: Zuigan llama a su Amo | Self-referential Loop |
-| 33 | Caso 13: Deshan y los Cuencos | Race Condition |
+| 33 | Caso 13: Deshan y los Cuencos | La Impaciencia y la Mesa (Cierre de Ciclos) |
 | 34 | Caso 14: Nansen corta el Gato | Split-brain / Deadlock |
 | 35 | Caso 15: Dongshan, 60 Golpes | Semántica vs. Sintaxis |
 | 36 | Caso 16: Yunmen y la Campana | Event Handler Automatizado |

@@ -2,12 +2,13 @@
 
 ## Current Status (2026-04-20)
 
-- **Phase 1: Vocabulary Injection**: Completed.
-- **Phase 2: Level 2 Re-modularization**: Completed.
-- **Phase 3: Historiography Restructuring**: Completed.
-- **Phase 4: Nivel 4 - Koans Expansion**: Completed.
-- **Phase 5: Editorial Normalization**: Partially completed (Niveles 2-3 patched).
-- **Phase 6: Web Prototype**: Maqueta inicial creada.
+- [x] **Phase 1: Vocabulary Injection**: Completed.
+- [x] **Phase 2: Level 2 Re-modularization**: Completed.
+- [x] **Phase 3: Historiography Restructuring**: Completed.
+- [x] **Phase 4: Nivel 4 - Koans Expansion**: Completed.
+- [x] **Phase 5: Editorial Normalization**: Partially completed (Niveles 2-3 patched).
+- [🔄] **Phase 6: Refactorización Editorial (Humana)**: Casos 2-9 y 13 completados.
+- [x] **Phase 7: Web Prototype**: Maqueta inicial creada.
 
 ## Completed Tasks
 
@@ -22,23 +23,24 @@
 - [x] **Zen Editor Skill v1**: Checklist expanded to cover all format and structure rules.
 - [x] **Workflow v1**: New chapter workflow updated with full process.
 - [x] **README v2**: Complete rewrite with full index, structure tree, and next steps.
-- [x] **Web Prototype**: Landing page with levels, koan showcase, methodology section.
+- [x] **Editorial Refactor (Phase 1)**: Casos 2, 3, 4, 5, 6, 7, 8, 9 y 13 migrados a metáforas humanas.
+- [x] **Web Data Sync**: data.js sincronizado con los nuevos contenidos del Mumonkan.
 
 ## Nivel 4 — Mumonkan Progress (48/48)
 
 - [x] **Caso 1: Joshu's Mu**: Systematic logic jammer defined.
-- [x] **Caso 2: Hyakujo's Fox**: Cause and effect (Karma) as technical debt.
-- [x] **Caso 3: Gutei's Finger**: Oneness and non-duality (Pointer vs Value).
-- [x] **Caso 4: Wakuan's Barbarian**: Hardcoded bias and labels (Metadata vs Data).
-- [x] **Caso 5: Kyogen's Man up a Tree**: The limit of words and action (Deadlock).
-- [x] **Caso 6: Buddha holds up a Flower**: Direct transmission (P2P Sync).
-- [x] **Caso 7: Joshu Washes the Bowls**: Everyday Zen (Closing the loop).
-- [x] **Caso 8: Keichū Makes Carts**: Creation and function (Modular Deconstruction).
-- [x] **Caso 9: Daizui and the Kalpa Fire**: The end of the world (Total System Wipe).
+- [x] **Caso 2: El Zorro**: Causalidad y responsabilidad (Arquitecto y Gravedad).
+- [x] **Caso 3: El Dedo**: Imitación vs Realidad (El Loro y la Palabra).
+- [x] **Caso 4: El Bárbaro**: Etiquetas y Espejos (El Espejo y el Prejuicio).
+- [x] **Caso 5: El Hombre en el Árbol**: Dilemas sin salida (Integridad y Silencio).
+- [x] **Caso 6: La Flor**: Transmisión silenciosa (La Sonrisa del Silencio).
+- [x] **Caso 7: Lava tus Cuencos**: Espiritualidad de lo ordinario (El Amanecer y el Fregadero).
+- [x] **Caso 8: Los Carros**: Esencia y Partes (El Violín y la Música).
+- [x] **Caso 9: El Fuego de Daizui**: Extinción absoluta (El Incendio de la Biblioteca).
 - [x] **Caso 10: Seizei is Poor and Destitute**: Emptiness and wealth (Native features).
 - [x] **Caso 11: Joshu Examines the Hermits**: Authenticity (Deep Packet Inspection).
 - [x] **Caso 12: Zuigan Calls His Own Master**: The recursive observer (Self-referential loop).
-- [x] **Caso 13: Deshan Carries His Bowls**: Premature action (Race Condition).
+- [x] **Caso 13: Deshan y los Cuencos**: Cierre de ciclos e impaciencia (Poner la mesa).
 - [x] **Caso 14: Nansen Cuts the Cat**: Irresolvable conflict (Split-brain / Deadlock).
 - [x] **Caso 15: Dongshan's Sixty Blows**: No presence in experience (Semantic vs syntactic validity).
 - [x] **Caso 16: Yunmen's Bell and Kesa**: Conditioned response (Automated event handler).
