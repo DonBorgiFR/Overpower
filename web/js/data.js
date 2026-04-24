@@ -596,7 +596,7 @@ window.OP = {
             "id": 29,
             "file": "29",
             "level": 4,
-            "title": "Mumonkan Caso 9: El fuego de Daizui (Total System Wipe)",
+            "title": "Mumonkan Caso 9: El fuego de Daizui (La extinción absoluta)",
             "subtitle": "",
             "metaphor": "",
             "school": "Zen Rinzai (Radical)",
@@ -604,12 +604,12 @@ window.OP = {
             "apertura": "Todos tenemos un miedo atávico al borrado definitivo. Nos consuela pensar que, aunque todo cambie, hay \"algo\" en nosotros —una esencia, un alma, un observador— que es eterno y que no se verá afectado por el caos. Buscamos en el Zen un seguro de vida espiritual, una \"nube\" donde nuestros datos estén a salvo del incendio del tiempo.\n\nEl kōan de Daizui viene a decirnos que esa nube también arde. Este es el kōan del **Total System Wipe**: la aceptación de que nada, absolutamente nada, está fuera de las leyes de la transformación y la desaparición.",
             "analogias": [
                   {
-                        "title": "s contemporáneas:",
-                        "text": "1. **Total System Wipe (Formateo de Bajo Nivel)**: El monje espera que, si formateamos el disco duro del universo, quede alguna partición oculta con sus datos espirituales. Daizui le dice que el formateo es total. Borra los archivos, borra la tabla de particiones y borra el hardware mismo. No hay \"partición de recuperación\".\n2. **Cold Shutdown del Universo**: Muchos practicantes usan el Zen como un \"Power Save Mode\" (modo ahorro) para sobrevivir. Daizui nos enseña el \"Cold Shutdown\". Cuando el universo se apaga, la conciencia que intenta observar el apagón también se apaga. No hay un espectador fuera del incendio.\n3. **El fin de la Realidad Virtual**: Si apagas el servidor que genera la simulación, no solo desaparecen los edificios y el suelo, también desaparece el avatar con el que creías estar jugando. \"Esto\" (tu identidad espiritual) es parte del software.\n\n### El",
-                        "limit": "Este kōan no es pesimista. Es liberador. Si aceptas que nada es eterno, dejas de gastar energía intentando \"salvar\" algo que por naturaleza es transitorio. La libertad no es sobrevivir al fuego, sino ser el fuego mismo mientras arde."
+                        "title": "Analogías contemporáneas",
+                        "text": "1. **El incendio de la gran biblioteca personal**: Imagina una biblioteca con todos tus recuerdos y logros. De repente, arde. ¿Se quemará también la sabiduría que hay dentro? Daizui dice: «Se quema». No hay una copia de seguridad fuera de tu experiencia presente. Aceptar el incendio te permite dejar de ser un bibliotecario angustiado para vivir el fuego con intensidad.\n2. **El atardecer definitivo**: Todos amamos la luz, pero el sol debe ponerse para que aparezcan las estrellas. El monje pregunta si su capacidad de ver sobrevivirá cuando no haya nada que ver. Daizui dice que el observador y lo observado son lo mismo: si el universo se apaga, tú te apagas con él.",
+                        "limit": "Este kōan no es pesimista. Es liberador. Si aceptas que nada es eterno, dejas de gastar energía intentando «salvar» algo que por naturaleza es transitorio. La libertad no es sobrevivir al fuego, sino ser el fuego mismo mientras arde."
                   }
             ],
-            "pregunta": "Si supieras con certeza absoluta que nada de lo que eres o haces dejará rastro alguno en el tiempo, ¿qué cambiaría en tu forma de respirar en este momento?"
+            "pregunta": "Si supieras con certeza absoluta que nada de lo que eres, piensas o haces dejará rastro alguno en el tiempo, ¿qué cambiaría en tu forma de amar y de respirar en este preciso instante?"
       },
       {
             "id": 30,
