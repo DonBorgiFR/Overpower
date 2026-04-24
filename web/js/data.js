@@ -463,7 +463,7 @@ window.OP = {
             "id": 22,
             "file": "22",
             "level": 4,
-            "title": "Mumonkan Caso 2: El Zorro de Hyakujo (Karma y Deuda Técnica)",
+            "title": "Mumonkan Caso 2: El Zorro de Hyakujo (Causa, efecto y responsabilidad)",
             "subtitle": "",
             "metaphor": "",
             "school": "Rinzai / Soto",
@@ -471,12 +471,12 @@ window.OP = {
             "apertura": "Existe una trampa muy común en los caminos espirituales: creer que la \"iluminación\" es un superpoder que nos hace inmunes a los problemas del mundo real. A menudo fantaseamos con que, al despertar, estaremos \"por encima\" de las consecuencias de nuestros actos.\n\nEl kōan del zorro de Hyakujo es un correctivo brutal contra esta fantasía. Nos enseña que la verdadera libertad no consiste en saltarse las reglas del juego, sino en comprenderlas tan profundamente que dejamos de ser \"víctimas\" de ellas para convertirnos en sus observadores conscientes.",
             "analogias": [
                   {
-                        "title": "s contemporáneas:",
-                        "text": "1. **La Ley de la Deuda Técnica**: El anciano maestro original pensó que \"ser un gran programador\" te permitía ignorar las reglas básicas del código. Pensó que podía escribir código con efectos secundarios (side effects) y no pagar el precio. Eso es creerse por encima de la causa y el efecto.\n2. **El Karma como \"Estado del Sistema\"**: El Karma no es un registro externo de pecados; es el **archivo de configuración (State)** de tu realidad actual. Si instalas un software, el sistema cambia. No puedes pretender que el sistema sea el mismo que ayer. Estar \"no oscurecido\" es saber que si haces X, el sistema ahora está en modo Y. Aceptas el nuevo estado y operas desde ahí.\n\n### El",
-                        "limit": "Aunque hablamos de \"leyes\", en el Zen el Karma no es un castigo moral (un juez que te condena), sino una **arquitectura lógica**: si pones X input, obtienes Y output. La liberación no es borrar el input, sino dejar de pretender que no habrá un output."
+                        "title": "Analogías contemporáneas",
+                        "text": "1. **La ley de la gravedad y el arquitecto**: Un arquitecto experimentado no cree que por ser un genio pueda ignorar la gravedad y construir un edificio sin cimientos. El edificio colapsará, no porque la gravedad sea «mala», sino porque es una ley física. El sabio usa la gravedad para construir catedrales que se sostienen gracias a ella.\n2. **Las deudas de un negocio o de la vida**: Si pides un préstamo, tienes que devolverlo. Creer que por ser una persona «espiritual» el banco va a olvidar la deuda es el error del primer maestro. La libertad no es que la deuda desaparezca mágicamente, sino comprender el flujo del dinero para no endeudarse innecesariamente.",
+                        "limit": "Aunque hablamos de «leyes», en el Zen el Karma no es un castigo moral, sino una arquitectura natural: si pones una semilla de manzana, obtienes una manzana. La liberación no es borrar la semilla, sino dejar de pretender que no habrá fruto."
                   }
             ],
-            "pregunta": "Si tu vida actual es el \"recompilado\" exacto de todas tus acciones pasadas, ¿qué línea de código estás escribiendo en este preciso segundo?"
+            "pregunta": "Si tu vida actual es el eco exacto de todas tus acciones pasadas, ¿qué semilla estás plantando en este preciso segundo?"
       },
       {
             "id": 23,
