@@ -539,7 +539,7 @@ window.OP = {
             "id": 26,
             "file": "26",
             "level": 4,
-            "title": "Mumonkan Caso 6: El Buda levanta una flor (Transmisión P2P)",
+            "title": "Mumonkan Caso 6: El Buda sostiene una flor (La sonrisa del silencio)",
             "subtitle": "",
             "metaphor": "",
             "school": "Zen (todas las escuelas)",
@@ -547,12 +547,12 @@ window.OP = {
             "apertura": "En tecnología, cuando dos dispositivos están perfectamente sincronizados, la transferencia de datos es instantánea y no requiere de una \"explicación\" paso a paso. El Zen nació precisamente en un momento así. No nació de un largo discurso, ni de una lista de mandamientos, sino de un silencio compartido ante un objeto cotidiano.\n\nEste kōan narra la escena fundacional del Zen: el momento en que la \"llave privada\" de la realidad fue reconocida por un discípulo sin usar una sola palabra. Es la apoteosis del **I-shin-den-shin** (de mente a mente).",
             "analogias": [
                   {
-                        "title": "s contemporáneas:",
-                        "text": "1. **Transmisión P2P (Peer-to-Peer)**: Habitualmente, para aprender algo necesitamos un manual (servidor). En este kōan, el Buda (un nodo con el estado \"despierto\") y Mahakashyapa (otro nodo que alcanza el mismo estado) se sincronizan directamente. No hay latencia de traducción. La flor es el \"handshake\" (saludo de conexión) que confirma que ambos están en la misma versión del firmware.\n2. **Cifrado asimétrico (Clave Privada)**: El gesto de levantar la flor es como enviar un mensaje cifrado a toda la red. Solo Mahakashyapa tiene la \"clave privada\" (su propia práctica y madurez interna) necesaria para descifrar el mensaje y responder con una sonrisa. Los demás solo ven un gesto sin sentido (datos cifrados).\n3. **Sincronización de Estados**: En sistemas distribuidos, lo importante no es el mensaje que viaja, sino que el estado final de los nodos sea idéntico. La flor no \"dice\" nada, pero \"activa\" la misma comprensión en ambos.\n\n### El",
-                        "limit": "La \"transmisión\" no es un traspaso de una cosa física u oculta. Es el **reconocimiento de algo que ya estaba ahí**. No es que el Buda le \"dé\" un secreto a Mahakashyapa; es que ambos reconocen que están viendo la misma realidad sin filtros."
+                        "title": "Analogías contemporáneas",
+                        "text": "1. **La sonrisa cómplice entre amigos**: Imagina que estás con un amigo íntimo en una situación hermosa o absurda. No hace falta decir nada. Os miráis y ambos «sabéis». Esa sonrisa es la transmisión de un universo de experiencias compartidas que las palabras solo estropearían.\n2. **El músico y el silencio entre notas**: Un gran músico no solo toca notas; habita los silencios que las separan. El público puede aplaudir la técnica, pero solo otro músico entiende la intención detrás del silencio. Kashyapa es el que escucha la música que Buda está «tocando» al sostener la flor.",
+                        "limit": "En la música sigue habiendo un emisor y un receptor. En el Zen, el Buda, la flor y Kashyapa son una sola unidad de percepción. No hay una canción «fuera» de ellos; la transmisión es el reconocimiento de algo que ya estaba ahí."
                   }
             ],
-            "pregunta": "Si te quedaras sin lenguaje para siempre, ¿cómo transmitirías tu amor o tu sabiduría a los que te rodean?"
+            "pregunta": "Si las palabras dejaran de existir ahora mismo, ¿qué gesto o mirada tuya podría expresar la esencia de lo que eres y de lo que amas?"
       },
       {
             "id": 27,
