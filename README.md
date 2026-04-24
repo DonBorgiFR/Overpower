@@ -120,3 +120,16 @@ OverPower/
 - [ ] Actualizar glosario: Incorporar términos nuevos del Nivel 4 (Shuinjinkou, Manas, Heijoshin, Angya).
 - [ ] Evolucionar la web: Navegación por capítulos, modo lectura, glosario interactivo.
 - [ ] Guía interactiva: NotebookLM para audio/infographic del compendio.
+
+---
+
+<p align="center">
+  Construido combinando los últimos avances en IA Generativa. <br>
+  <strong>© 2026 Borja Félix Rojas.</strong> Todos los derechos reservados.
+</p>
+
+<p align="center">
+  <a href="https://ko-fi.com/borjafelixrojas" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi1.png?v=3" height="36" alt="Buy Me a Coffee at ko-fi.com" />
+  </a>
+</p>
