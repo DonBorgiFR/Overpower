@@ -577,7 +577,7 @@ window.OP = {
             "id": 28,
             "file": "28",
             "level": 4,
-            "title": "Mumonkan Caso 8: Los carros de Keichū (Deconstrucción Modular)",
+            "title": "Mumonkan Caso 8: Los carros de Keichu (La esencia y sus partes)",
             "subtitle": "",
             "metaphor": "",
             "school": "Zen (especialmente reflexiones sobre la vacuidad)",
@@ -585,12 +585,12 @@ window.OP = {
             "apertura": "Nuestra mente tiene una tendencia natural a crear \"bloques\" sólidos. Decimos \"Este es mi coche\", \"Esta es mi empresa\" o \"Este soy yo\". Tratamos esos nombres como si fueran entidades reales, fijas y permanentes. Olvidamos que todo lo que nombramos es, en realidad, un ensamblaje temporal de piezas que se mueven.\n\nEste kōan nos invita a realizar un ejercicio de **ingeniería inversa** mental. Al desmontar el \"carro\", descubrimos que el nombre \"carro\" solo es una etiqueta conveniente, pero que no hay ninguna \"esencia de carroidad\" escondida en ninguna parte.",
             "analogias": [
                   {
-                        "title": "s contemporáneas:",
-                        "text": "1. **La Abstracción de Clases**: Imagina que tienes una clase llamada `Carro`. Esta clase tiene propiedades como `Ruedas`, `Eje` y `Cabina`. Si borras todas las propiedades y métodos, la clase `Carro` se queda vacía. No existe el \"Carro\" fuera de sus componentes. El nombre es solo un **punto de acceso (endpoint)** a un conjunto de funciones.\n2. **Deconstrucción Modular**: Un proyecto de software no es una masa sólida; es un conjunto de microservicios y librerías. Si quitas las dependencias, el proyecto deja de ejecutarse. ¿Dónde está \"El Proyecto\"? En ninguna parte y en todas; es el resultado de la relación entre las partes, no una cosa aparte.\n3. **Hardware Virtualizado**: Una \"máquina virtual\" no es una máquina física. Son solo instrucciones ejecutándose en un hardware que tampoco es permanente. Nuestra identidad es una **Virtual Machine**: un sistema operativo corriendo sobre un hardware biológico temporal.\n\n### El",
-                        "limit": "No se trata de que el carro no exista (puedes subirte a él y viajar). Se trata de que su existencia es **dependiente**. Existe como función, no como esencia. Esto elimina el apego: puedes cuidar el carro, pero sabes que un día se desmontará."
+                        "title": "Analogías contemporáneas",
+                        "text": "1. **El violín y el alma de la música**: Imagina un violín desarmado: cuerdas, madera, barniz. Ninguna de esas piezas es «la música». La esencia del violín no está en sus partes, sino en el vacío que resuena. Si lo desarmas, el instrumento desaparece, pero la posibilidad de la música sigue ahí.\n2. **La casa y el sentido del hogar**: Una casa son ladrillos y cables, pero vivimos en el espacio vacío que queda entre ellos. Si quitas los ladrillos, el «hogar» no se puede señalar en ninguna parte. ¿Cuál es el espacio de tu vida que no depende de tus posesiones o títulos?",
+                        "limit": "No se trata de que el carro no exista (puedes viajar en él). Se trata de que su existencia es dependiente de sus partes. Existe como función, no como esencia sólida. Esto elimina el apego: puedes cuidar tu vida, pero sabes que un día se desmontará."
                   }
             ],
-            "pregunta": "Si te quito tu historia personal, tus planes futuros y tus opiniones actuales, ¿cómo te llamarías a ti mismo en este preciso instante?"
+            "pregunta": "Si ahora mismo desmontáramos pieza a pieza todo lo que crees que te define, ¿qué es lo que quedaría presente en este preciso instante?"
       },
       {
             "id": 29,
