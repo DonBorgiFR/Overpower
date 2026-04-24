@@ -501,7 +501,7 @@ window.OP = {
             "id": 24,
             "file": "24",
             "level": 4,
-            "title": "Mumonkan Caso 4: El Bárbaro sin Barba (Sesgos Hardcodeados)",
+            "title": "Mumonkan Caso 4: El Bárbaro sin Barba (Etiquetas y realidad)",
             "subtitle": "",
             "metaphor": "",
             "school": "Rinzai / Soto",
@@ -509,12 +509,12 @@ window.OP = {
             "apertura": "Todos tenemos una \"imagen mental\" del mundo. Tenemos etiquetas para todo: \"el jefe es así\", \"el Zen es asá\", \"yo soy de esta manera\". El problema es que acabamos confundiendo la etiqueta con la realidad. Olvidamos que la descripción de la realidad no es la realidad, igual que el nombre de una variable no es el dato que contiene.\n\nEste kōan, aparentemente absurdo, es una herramienta para desinstalar los **sesgos hardcodeados** que nublan nuestra percepción. Nos obliga a mirar el objeto real, ignorando los metadatos que nuestra mente proyecta sobre él.",
             "analogias": [
                   {
-                        "title": "s contemporáneas:",
-                        "text": "1. **Propiedades Hardcodeadas**: En programación, a veces definimos una clase `Bodhidharma` y le asignamos la propiedad `HasBeard = true` de forma permanente. Wakuan viene y borra esa línea de código. Nos obliga a procesar al \"Bárbaro\" sin basarnos en sus propiedades predefinidas. ¿Quién es Bodhidharma si le quitas lo que \"sabes\" de él?\n2. **Metadatos vs. Datos reales**: Confundimos a las personas con su perfil de LinkedIn o su cargo. \"El director financiero\" (etiqueta). Cuando esa persona pierde el cargo, nos quedamos en cortocircuito. Wakuan nos pregunta: ¿Por qué el director financiero no tiene despacho? Para que miremos al humano, no al organigrama.\n3. **Decompilación de la imagen**: Este kōan es un \"decompiler\". Desmonta la imagen final para que veas que la barba es solo un conjunto de píxeles, un añadido, no la esencia.\n\n### El",
-                        "limit": "No se trata de que Bodhidharma se haya afeitado. Se trata de que tu mente \"necesita\" que tenga barba para reconocerlo. Wakuan ataca esa **necesidad de reconocimiento basado en etiquetas**."
+                        "title": "Analogías contemporáneas",
+                        "text": "1. **El espejo y el prejuicio**: Miramos a alguien y creemos ver «su barba» o «su piel», pero solo vemos nuestra propia idea de él. Wakuan pregunta por qué el bárbaro no tiene barba para romper el espejo de la etiqueta. Es como mirar a un «enemigo» y darte cuenta de que bajo el disfraz no hay nada que lo separe de ti.\n2. **El nombre y la persona**: Confundimos a las personas con su perfil o su cargo. Cuando esa persona pierde el cargo, nos quedamos en cortocircuito. Wakuan nos invita a mirar al ser humano real, despojado del archivo de definiciones que llevamos a cuestas.",
+                        "limit": "No se trata de que Bodhidharma se haya afeitado. Se trata de que tu mente «necesita» que tenga barba para reconocerlo. Wakuan ataca esa necesidad de reconocimiento basado en etiquetas que nos impide ver la vida tal como es."
                   }
             ],
-            "pregunta": "Si elimino todas tus \"barbas\" (tu nombre, tus logros, tus fracasos, tu pasado), ¿qué es lo que queda mirando este texto ahora mismo?"
+            "pregunta": "Si te quitaran tu nombre, tus logros y todo lo que los demás dicen de ti, ¿qué es lo que queda presente en este preciso instante?"
       },
       {
             "id": 25,
