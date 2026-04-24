@@ -520,7 +520,7 @@ window.OP = {
             "id": 25,
             "file": "25",
             "level": 4,
-            "title": "Mumonkan Caso 5: El Hombre en el Árbol (Deadlocks y Respuesta Total)",
+            "title": "Mumonkan Caso 5: El Hombre en el Árbol (Dilemas sin salida)",
             "subtitle": "",
             "metaphor": "",
             "school": "Rinzai / Soto",
@@ -528,12 +528,12 @@ window.OP = {
             "apertura": "Hay situaciones en la vida que son un **deadlock** perfecto: si te mueves, rompes algo; si te quedas quieto, el sistema colapsa. El Zen nos entrena para esos momentos de \"cero margen de error\", donde la respuesta no está en el intelecto ni en el silencio pasivo, sino en un nivel de presencia mucho más profundo.\n\nEste capítulo explora el dilema de Kyogen, una situación diseñada para agotar tus recursos lógicos y obligarte a encontrar una \"tercera vía\" que no sea ni hablar ni callar.",
             "analogias": [
                   {
-                        "title": "s contemporáneas:",
-                        "text": "1. **La Crisis de Producción (Zero-Day)**: Tienes un fallo crítico en el sistema central. Si aplicas el parche estándar, borras los datos de los clientes. Si no haces nada, el sistema se quema. No puedes seguir el manual. Tienes que actuar con una lucidez que está más allá de las reglas escritas.\n2. **El \"Exit Code\" de la paradoja**: Nuestra mente busca siempre un código de salida (0 para éxito, 1 para error). Kyogen nos pone ante una situación donde ambos códigos llevan al desastre. El kōan nos obliga a buscar un **proceso que no dependa del código de salida habitual**.\n3. **Hardware vs. Firmware**: El hombre en el árbol ha agotado su \"firmware\" (el lenguaje, las manos, los pies). Solo le queda su \"hardware\" puro (su vida misma, su presencia).\n\n### El",
-                        "limit": "No se trata de ser un héroe o un mártir. Se trata de ver que, a veces, la **verdad** exige que soltemos nuestra seguridad personal para poder ser \"útiles\" al mundo."
+                        "title": "Analogías contemporáneas",
+                        "text": "1. **El dilema de la integridad y el silencio**: Imagina que una relación o un trabajo es tu sustento (tu rama). Un superior te hace una pregunta cuya respuesta honesta podría destruir ese sustento, pero el silencio significaría traicionar tus valores más profundos. ¿Qué es más importante, la rama que te sostiene o la voz que te define?\n2. **El rescate en condiciones extremas**: Un rescatista debe actuar en un segundo. Si sigue el protocolo, falla; si lo rompe, se arriesga. La respuesta no puede venir de un manual, sino de un lugar del ser donde el miedo ha sido superado por la necesidad de la acción pura.",
+                        "limit": "En la vida diaria a menudo podemos negociar. En el kōan, la situación es absoluta para forzar una ruptura de la mente calculadora que siempre busca el «punto medio» para no arriesgar nada. A veces, la única forma de ser auténtico es aceptar la caída."
                   }
             ],
-            "pregunta": "Si tu supervivencia dependiera de que guardaras silencio, pero tu integridad dependiera de que hablaras, ¿cuál de los dos moriría primero?"
+            "pregunta": "Si tu seguridad dependiera de que guardaras silencio, pero tu razón de ser dependiera de que hablaras, ¿cuál de las dos dejarías caer primero?"
       },
       {
             "id": 26,
