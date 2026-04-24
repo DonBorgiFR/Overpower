@@ -482,7 +482,7 @@ window.OP = {
             "id": 23,
             "file": "23",
             "level": 4,
-            "title": "Mumonkan Caso 3: El Dedo de Gutei (Punteros y Simulacros)",
+            "title": "Mumonkan Caso 3: El Dedo de Gutei (Autenticidad y simulacro)",
             "subtitle": "",
             "metaphor": "",
             "school": "Rinzai / Soto",
@@ -490,12 +490,12 @@ window.OP = {
             "apertura": "Es muy fácil parecer sabio. Basta con aprenderse cuatro frases de un libro, adoptar una postura solemne y usar el vocabulario adecuado. Pero en el Zen, la imitación es un callejón sin salida. La verdad no se puede \"copiar y pegar\" de la mente de un maestro a la de un discípulo.\n\nEl kōan del dedo de Gutei es una advertencia drástica sobre el peligro de confundir el **puntero** (la enseñanza) con el **valor** (la realidad). A veces, para que alguien despierte, hay que destruir el juguete con el que está fingiendo que sabe.",
             "analogias": [
                   {
-                        "title": "s contemporáneas:",
-                        "text": "1. **La falacia del \"Copy-Paste\"**: Imagina a un principiante que copia un script complejo de *Stack Overflow*. El script funciona, pero el principiante no tiene ni idea de por qué. Cree que \"sabe programar\" porque el resultado es el mismo que el del experto. Gutei corta el dedo para \"borrar el script copiado\" y obligar al chico a entender la lógica desde cero.\n2. **Puntero vs. Dirección de Memoria**: El dedo levantado es un puntero. El chico estaba obsesionado con la \"dirección\" del puntero (el gesto físico), pero no tenía acceso a la \"memoria\" (la realización interna). Al eliminar el puntero físico, Gutei fuerza al chico a mirar directamente a la fuente.\n3. **La Interfaz (UI) no es el Backend**: Puedes copiar la interfaz de Amazon, pero eso no te da su logística ni sus servidores. El chico tenía la UI de Gutei, pero su backend estaba vacío.\n\n### El",
-                        "limit": "La violencia del relato es simbólica. Gutei quita la \"interfaz de usuario\" (UI) para que el chico no tenga más remedio que mirar al código fuente. \n\n*Nota de profundidad:* La imitación es necesaria en las fases iniciales de cualquier aprendizaje (como seguir un tutorial), pero el \"dedo\" se vuelve un problema cuando el discípulo cree que la UI *es* el sistema completo. Gutei realiza una \"depuración radical\" eliminando el elemento que permite al chico seguir engañándose."
+                        "title": "Analogías contemporáneas",
+                        "text": "1. **El loro y la palabra**: Un loro puede repetir «te quiero» o «soy libre», pero no conoce el amor ni la libertad. El discípulo repetía el gesto de su maestro como ese loro. Al cortarle el dedo, Gutei silencia al loro para que el humano hable por sí mismo.\n2. **La receta y el sabor**: Seguir una receta al pie de la letra no es lo mismo que ser un chef que entiende cómo interactúan los sabores. El chico tenía la receta (el gesto), pero su plato estaba vacío. El Zen no se lee en los libros; se gusta en la vida.",
+                        "limit": "La imitación es necesaria al principio de cualquier aprendizaje, pero se vuelve un problema cuando confundes la pose con la esencia. Gutei quita la máscara para que el chico no tenga más remedio que mirar a su propia naturaleza."
                   }
             ],
-            "pregunta": "Si ahora mismo te prohibieran usar todas tus palabras favoritas y todos tus gestos habituales, ¿cómo demostrarías que estás despierto?"
+            "pregunta": "Si te prohibieran usar todas tus palabras favoritas y todos tus gestos habituales, ¿cómo demostrarías que estás verdaderamente presente en este momento?"
       },
       {
             "id": 24,
