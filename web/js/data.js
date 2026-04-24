@@ -558,7 +558,7 @@ window.OP = {
             "id": 27,
             "file": "27",
             "level": 4,
-            "title": "Mumonkan Caso 7: Lava tus cuencos (Mantenimiento y Cierre de Ciclos)",
+            "title": "Mumonkan Caso 7: Lava tus cuencos (La espiritualidad de lo ordinario)",
             "subtitle": "",
             "metaphor": "",
             "school": "Zen (todas las escuelas, especialmente Soto)",
@@ -566,12 +566,12 @@ window.OP = {
             "apertura": "Muchos practicantes llegan al Zen buscando una explosión cósmica, una visión de luces o una paz inquebrantable que les aleje de sus aburridas vidas. Creen que el Zen es algo que sucede \"después\" de terminar el trabajo, en un templo lejano.\n\nEl kōan de Joshu y los cuencos es una bofetada de realidad: te dice que el Zen no está en el sermón del maestro, sino en el fregadero. Nos enseña que la perfección no es un estado místico, sino el acto de completar cada proceso de la vida con atención total, sin dejar \"residuos\" mentales.",
             "analogias": [
                   {
-                        "title": "s contemporáneas:",
-                        "text": "1. **Garbage Collection (Recolección de basura)**: En programación, si una función usa memoria y no la libera al terminar, se produce un \"memory leak\" (fuga de memoria) que acaba bloqueando el sistema. El monje pedía una teoría nueva (más datos), pero Joshu le dijo que ejecutara su recolector de basura: termina lo que empezaste. Si comiste, lava el cuenco. No dejes procesos abiertos en segundo plano.\n2. **Mainstream Maintenance (Soporte técnico del día a día)**: Creemos que el valor está solo en el \"Lanzamiento de Producto\" (la iluminación). El Zen dice que el valor real está en el mantenimiento constante. Lavar los platos no es un castigo antes de meditar; lavar los platos *es* el Zen. Es mantener la \"producción\" limpia y estable.\n3. **Cero Residuos Mentales**: El monje estaba pensando en \"El Gran Despertar\" mientras su cuenco seguía sucio en la mesa. Joshu le obliga a volver al presente físico. La realidad no es una idea sobre el Zen, la realidad es el agua y el cuenco.\n\n### El",
-                        "limit": "Lavar el cuenco no es una metáfora de purificar el alma. Es, literalmente, lavar el cuenco. La \"magia\" ocurre cuando dejas de buscar un significado oculto y simplemente te dedicas al 100% a la tarea que tienes delante."
+                        "title": "Analogías contemporáneas",
+                        "text": "1. **El amanecer y las tareas del hogar**: Imagina a alguien buscando el «sentido de la vida» en las estrellas, pero ignorando los platos sucios en el fregadero. Joshu nos dice que el milagro no está en caminar sobre las aguas, sino en el agua jabonosa y el roce del estropajo. La paz se encuentra en los detalles cotidianos.\n2. **El mapa y el viaje real**: Un viajero estudia el mapa de una ciudad lejana con obsesión, pero cuando llega, lo primero que tiene que hacer es deshacer la maleta y lavarse la cara. Joshu le dice al monje que deje de mirar el «mapa» del budismo y empiece a «caminar» en su propia cocina.",
+                        "limit": "Lavar el cuenco no es una metáfora de purificar el alma. Es, literalmente, lavar el cuenco. La «magia» ocurre cuando dejas de buscar un significado oculto y simplemente te dedicas al 100% a la tarea que tienes delante."
                   }
             ],
-            "pregunta": "Después de leer esto, ¿qué es lo más sencillo y ordinario que tienes pendiente de hacer? ¿Y si eso fuera lo más sagrado de tu día?"
+            "pregunta": "Después de terminar esta lectura, ¿qué es lo más sencillo y pequeño que tienes que hacer a continuación? ¿Y si pusieras en ello toda la atención que pondrías en el milagro más grande de tu vida?"
       },
       {
             "id": 28,
