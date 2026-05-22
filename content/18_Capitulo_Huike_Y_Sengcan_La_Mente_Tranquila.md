@@ -35,7 +35,7 @@ En nuestra mentalidad polarizada, todo es blanco o negro (bueno o malo). En la l
 
 ## 4. Núcleo de práctica
 1. **Zazen de Sensación Pura**: Siéntate y nota cualquier picor, sonido o pensamiento. 
-2. **Observación del Filtro**: Nota el milisegundo en que tu mente dice "no quiero este sonido". Ese es el **bug**. 
+2. **Observación del Filtro**: Nota el milisegundo en que tu mente dice "no quiero este sonido". Ese es el **vicio reactivo**. 
 3. **Desactivación del Filtro**: Di internamente "ni rechazo, ni deseo". Deja que la sensación sea solo una nube pasajera cruzando el cielo de tu consciencia.
 
 ## 5. Pregunta contemplativa de cierre

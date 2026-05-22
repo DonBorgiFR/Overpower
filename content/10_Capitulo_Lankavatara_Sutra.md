@@ -45,7 +45,7 @@ La práctica del *Lankavatara* es una forma de "ingeniería inversa" de la perce
 ### Cómo encarnarlo
 
 - En zazen: Observa cómo surgen las "imágenes" mentales. No te fijes en el contenido (la historia que cuenta el pensamiento), sino en el hecho de que es una "proyección". Nota el momento en que una idea se vuelve "estólida" o parece real, y suavemente disuélvela recordando: "solo mente".
-- En la vida diaria: Cuando sientas una emoción fuerte (ira, envidia), pregúntate: "¿Qué semillas de mi base de datos están activando este renderizado ahora?". Al reconocer el proceso como una construcción interna, el poder de la emoción sobre ti disminuye.
+- En la vida diaria: Cuando sientas una emoción fuerte (ira, envidia), pregúntate: "¿Qué semillas guardadas en mi memoria profunda están dando forma a esta reacción ahora?". Al reconocer el proceso como una construcción interna, el poder de la emoción sobre ti disminuye.
 - Qué evitar: Evitar el solipsismo (creer que "solo yo existo"). El *Lanka* no dice que tú seas el creador de todo como individuo, sino que la *Consciencia* es el tejido de todo.
 
 ## 5. Pregunta contemplativa de cierre
@@ -61,8 +61,8 @@ Si el mundo que ves es una pintura de tu propia mente, ¿quién es el pintor y d
 ## 7. Mini-glosario local
 
 - Cittamatra (Solo Mente): Todo lo vivido pasa siempre por la estructura de la mente.
-- Alayavijnana (Conciencia Almacén): Base de datos kármicos latentes que "renderiza" nuestra realidad.
-- Paravritti (Giro de la base): Reconfiguración total del sistema operativo mental.
+- Alayavijnana (Conciencia Almacén): Depósito profundo de impresiones latentes y hábitos de donde emerge nuestra percepción de la realidad.
+- Paravritti (Giro de la base): Transformación profunda y reorientación de nuestra percepción e identidad.
 - Bodhisattva: El "activista del despertar" (como Mahamati) dedicado al beneficio de todos.
 - Karuna: Compasión lúcida nacida de la comprensión de la no-separatividad.
 - Maya: La ilusión de que las proyecciones mentales son esencias sólidas e independientes.

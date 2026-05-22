@@ -1,4 +1,4 @@
-# Mumonkan Caso 10: Seizei es pobre y está necesitado (Recursos Preinstalados)
+# Mumonkan Caso 10: Seizei es pobre y está necesitado (La Fortuna Olvidada)
 
 ## Metadatos
 - Nivel del corpus: Nivel 4 - Colecciones de Kōans
@@ -8,9 +8,9 @@
 - Publico principal de esta version: Personas que sienten que "les falta algo" para ser felices o estar completos.
 
 ## 1. Apertura
-Vivimos en la cultura de la actualización constante. Creemos que nos falta un parche, una nueva versión o un software externo para que nuestra vida "funcione" de verdad. Pasamos años buscando el "Zen" como si fuera una aplicación que hay que descargar de una tienda lejana.
+Vivimos en la cultura de la insatisfacción constante. Creemos que nos falta un aprendizaje más, un estado especial de conciencia o un maestro infalible para que nuestra vida "funcione" de verdad. Pasamos años buscando la iluminación en doctrinas complejas, como si la paz fuera un tesoro escondido en una isla lejana que debemos conquistar.
 
-El kōan de Seizei es un recordatorio satírico de que somos como multimillonarios que han olvidado su clave del banco y van por la calle pidiendo limosna. Nos enseña que la "pobreza espiritual" es un error de lectura de nuestro propio sistema: estamos usando los recursos, pero nos negamos a reconocer que ya son nuestros.
+El kōan de Seizei es un recordatorio humorístico y profundo de que somos como personas extremadamente ricas que, habiendo olvidado su propia fortuna, vagan por las calles vestidas con harapos y mendigando unas monedas para comer. Nos enseña que la "pobreza espiritual" es una ilusión de nuestra propia percepción: ya estamos rodeados de abundancia, pero nos negamos a reconocer que es nuestra.
 
 ## 2. Contexto doctrinal e histórico
 El monje Seizei se acercó al maestro Sozan (Caoshan Benji, 840–901) y le dijo con humildad:
@@ -26,26 +26,25 @@ Sozan comentó:
 En ese momento, Seizei comprendió su error.
 
 ## 3. Traducción occidental guiada
-Sozan le está diciendo a Seizei que su "llamada y respuesta" es la prueba de que su sistema ya está operativo al 100%.
+Sozan le está diciendo a Seizei que el simple hecho de escuchar la llamada y responder con un sincero "¡Sí!" es la prueba innegable de que su naturaleza despierta ya está plenamente activa en él.
 
 ### Analogías contemporáneas:
-1. **Características Preinstaladas**: Imagina que compras un ordenador de altísima gama y te pasas meses pidiendo que alguien te instale un "sistema operativo". El maestro te llama por tu nombre, tú respondes, y él te dice: "¿Ves? Ya estás ejecutando el kernel. Ya tienes el software. El hecho de que puedas pedir ayuda es la prueba de que ya tienes todo lo que necesitas".
-2. **Saldo no consultado**: Seizei se siente pobre porque no ha mirado su "dashboard" de recursos. Cree que el Zen es algo que Sozan debe *darle* (un input externo), cuando en realidad el Zen es la capacidad misma de Seizei para escuchar y responder (el motor interno).
-3. **El "Free Tier" infinito**: Vivimos creyendo que estamos en una versión de prueba limitada y que debemos pagar con esfuerzo para obtener la versión "Premium". Sozan le dice: "Ya estás usando la versión completa. Esas tres copas de vino son tus experiencias diarias. Ya estás inmerso en la realidad, deja de fingir que estás fuera de ella".
+1. **El Mendigo y el Cofre de Oro (La Herencia Olvidada)**: Imagina a un mendigo que pasa el día bajo la lluvia, temblando de frío y quejándose de su extrema pobreza ante los transeúntes, mientras sostiene con fuerza bajo el brazo un cofre sellado de oro macizo que heredó de sus antepasados, pero cuyo valor desconoce por completo. La llamada del maestro Sozan es un golpe certero al cofre para recordarle: *"¡Escucha el tintineo del metal! ¡Ya tienes la fortuna contigo y no necesitas mendigar nada a nadie!"*.
+2. **El Pez Sediento / El Banquete del Huérfano**: Es como representar a un pez que nada en un río caudaloso y cristalino, pero que pasa el día llorando de angustia y buscando desesperadamente "el océano de la hidratación" porque teme morir seco. O a un invitado de honor sentado en un banquete real, rodeado de manjares exquisitos, que se lamenta de hambre porque está esperando que le sirvan un plato mágico específico en lugar de comer lo que ya tiene delante.
 
 ### El límite de la analogía:
-La "riqueza" en el Zen no es tener muchas cosas o muchas ideas. Es la **capacidad nativa de respuesta** ante la vida. Sozan no le da dinero a Seizei; le da un espejo para que vea que ya tiene los bolsillos llenos.
+La riqueza de la que habla el Zen no consiste en acumular tesoros materiales, conocimientos intelectuales o experiencias místicas extraordinarias. Es la **capacidad innata de presencia y respuesta** ante la vida. Sozan no le entrega nada nuevo a Seizei; simplemente sostiene un espejo ante él para que vea que ya tiene los bolsillos llenos.
 
 ## 4. Núcleo de práctica
-Este kōan se practica cuando sentimos que la meditación "no nos está dando nada".
+Este kōan se practica especialmente cuando sentimos que nuestra meditación "no avanza" o que "no estamos logrando nada".
 
-- En Zazen: Deja de buscar un resultado. El hecho de que puedas sentarte, respirar y darte cuenta de tus pensamientos es ya el "vino de Chin". No busques una cuarta copa. Reconoce que el estado presente, tal como es, es la perfección que buscabas. No eres pobre; eres el dueño del servidor que observa todo el proceso.
-- En la vida diaria: Cada vez que pienses "necesito X para estar bien", recuerda a Seizei. Tienes aire, tienes conciencia, tienes la capacidad de responder al nombre que te da la vida. Ya estás bebiendo. Deja de quejarte de la sed mientras tienes la copa en la mano.
+- En Zazen: Deja de buscar un estado mental extraordinario. El hecho de que puedas sentarte, respirar, oír los sonidos a tu alrededor y darte cuenta de tus pensamientos es ya el "vino de Chin", la experiencia directa de estar vivo. No busques una cuarta copa. Reconoce que el estado presente, tal como es ahora, contiene toda la perfección que andabas buscando. No eres un mendigo desposeído; eres el propio anfitrión de la consciencia que presencia todo el fluir de la existencia.
+- En la vida diaria: Cada vez que te asalte el pensamiento de "necesito conseguir X logro o cambiar mi situación para poder estar en paz", recuerda a Seizei. Tienes respiración, tienes conciencia y tienes la capacidad de responder al latido del mundo. Ya estás bebiendo de la fuente de la vida. Deja de quejarse de la sed mientras sostienes la copa llena en la mano.
 
-**Qué evitar:** El victimismo espiritual. "Es que yo no tengo talento para el Zen", "es que yo soy muy nervioso". Esas son solo excusas para no admitir que ya estás ejecutando el programa.
+**Qué evitar:** El victimismo espiritual o la autocompasión paralizante ("es que yo no sirvo para la meditación", "es que mi mente es demasiado inquieta"). Esas son solo narrativas mentales que utilizas para no admitir que tu naturaleza lúcida ya está completamente activa.
 
 ## 5. Pregunta contemplativa de cierre
-Si el Zen fuera un software que ya viene instalado de fábrica en tu cerebro, ¿qué estarías intentando instalar encima que en realidad sobra?
+Si la plenitud fuera una herencia natural que ya posees en este mismo instante, ¿qué esfuerzo estás haciendo para "alcanzarla" que en realidad te está impidiendo disfrutar de ella?
 
 ## 6. Errores comunes de interpretación
 - **Error 1: Creer que Sozan es rico y Sezei pobre**. Ambos son lo mismo. Solo varía la autopercepción.
@@ -55,8 +54,9 @@ Si el Zen fuera un software que ya viene instalado de fábrica en tu cerebro, ¿
 ## 7. Mini-glosario local
 - Vino de Chin: Metáfora de la realización plena y la experiencia directa de la realidad.
 - Pobreza de Seizei: El autoengaño de creerse separado de la naturaleza búdica.
-- Llamada de Sozan: Técnica para provocar una respuesta espontánea y directa que demuestre que la mente ya está funcionando.
+- Llamada de Sozan: Técnica para provocar una respuesta espontánea y directa que demuestre que la consciencia lúcida ya está activa.
 
 ## 8. Referencias
 - Fuente primaria: *Mumonkan*, Caso 10.
+- Fuente secundaria: *The Roaring Stream*, ed. Foster & Shoemaker.nkan*, Caso 10.
 - Fuente secundaria: *The Roaring Stream*, ed. Foster & Shoemaker.
