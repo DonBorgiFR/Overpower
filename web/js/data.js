@@ -280,20 +280,25 @@ window.OP = {
             "id": 14,
             "file": "14",
             "level": 2,
-            "title": "14_Historiografía_Nivel_2: La Red de Transmisión de los Patriarcas",
+            "title": "La Transmisión del Silencio: La cordada humana que sostiene el vacío",
             "subtitle": "",
-            "metaphor": "",
-            "school": "",
-            "type": "",
-            "apertura": "- Analogía contemporánea: El linaje funciona como un **Árbol Genealógico estricto**. Cada maestro es un \"eslabón\" que valida la autenticidad del anterior. Si la cadena se rompe, la transmisión pierde su legitimidad. Los capítulos 17, 18 y 19 de este compendio detallan los \"eslabones fundacionales\" de esta red.",
+            "metaphor": "La Cordada de Montaña / El Relevo de la Lámpara",
+            "school": "Ambas",
+            "type": "Historiografía / Crónica de transmisión",
+            "apertura": "**Idea nuclear**: El despertar no es una experiencia abstracta e incorpórea que flota en el vacío de la historia, sino un fuego vivo transmitido de persona a persona a lo largo de los siglos. La historiografía del Zen no es una simple lista de fechas y nombres piadosos, sino el mapa de una cordada humana que ha colaborado para evitar que el silencio primordial del Buda se perdiera en el ruido del tiempo. \n\nPara practicar hoy, dependemos de la fidelidad y el esfuerzo de cientos de generaciones de hombres y mujeres que arriesgaron sus vidas para proteger los textos, mantener abiertos los templos y encarnar la práctica en momentos de extrema inestabilidad social. Estudiar a los patriarcas no es adorar el pasado, sino reconocer que nuestra propia respiración en el zafu es el último eslabón de una cadena ininterrumpida de confianza.",
             "analogias": [
                   {
-                        "title": "Traducción",
-                        "text": "¿Cómo han sobrevivido textos como el *Xinxin Ming* o el *Sandokai* durante más de mil años? Mediante una red de **Santuarios Físicos (Monasterios)**.\n\n- Bibliotecas Monásticas: Los monasterios funcionaron como grandes bibliotecas. En épocas de persecución religiosa en China o guerras civiles en Japón, los monjes arriesgaron sus vidas para trasladar los manuscritos a lugares seguros. \n- Tecnología Xilográfica: El Zen fue un adoptante temprano de la imprenta de madera. Esta tecnología permitió la \"estandarización del texto\": una vez grabado un bloque, se podían imprimir miles de copias idénticas, evitando la degradación de la información que ocurre con la copia manual (donde cada copista añade sus propios errores o interpretaciones).",
-                        "limit": ""
+                        "title": "La Cordada de Montaña (El Linaje)",
+                        "text": "Imagina que estás ascendiendo por un glaciar empinado y sumamente peligroso, lleno de grietas ocultas por la nieve reciente. Para cruzar de forma segura, tú y tus compañeros os atáis a una misma cuerda. El que va a la cabeza no camina solo: depende de los anclajes sólidos colocados por el que va detrás, y este a su vez depende de la firmeza de los que le siguen. \n\nEl linaje del Zen funciona como esta cordada. Cada maestro es un escalador que asegura la cuerda para la siguiente generación. La cuerda en sí misma no es la montaña, ni tampoco es el acto de escalar, pero es lo único que impide que un resbalón individual termine en una caída mortal hacia el abismo del olvido o de la autoayuda superficial.\n-",
+                        "limit": "En la montaña física, la cuerda sujeta tu cuerpo desde fuera y un escalador puede ser arrastrado de forma pasiva por la fuerza del grupo. En la transmisión del Zen, nadie puede despertar por ti; la cuerda es puramente espiritual e interna, obligando a cada practicante a dar cada paso con sus propios pies."
+                  },
+                  {
+                        "title": "El Relevo de la Lámpara (La Preservación Documental)",
+                        "text": "Imagina un valle azotado por una tormenta de nieve y vientos huracanados que amenaza con congelar a todos los habitantes. El fuego central del pueblo se ha apagado, pero una pequeña comunidad de vecinos decide proteger una brasa encendida en el fondo de una vasija de arcilla tosca y gruesa. Se turnan para llevar la vasija resguardándola bajo sus ropas, caminando en medio del temporal. \n\nLa vasija de arcilla representa los monasterios y las tecnologías de preservación física (como la impresión de madera o los manuscritos copiados a mano enDunhuang). La arcilla es tosca, fría y frágil: no tiene luz ni calor propios. Pero sin esa vasija protectora, la brasa ardiente de la realización se habría apagado bajo las lluvias de la persecución política y el desinterés histórico.\n-",
+                        "limit": "Una brasa física consume material combustible del exterior y acaba reduciéndose a cenizas si no se alimenta constantemente. La Mente Original que preserva la transmisión del Zen no es un objeto externo que requiera combustible para brillar; es la luz basal e incombustible que ya está despierta en todo ser humano, esperando ser reconocida."
                   }
             ],
-            "pregunta": "- [TODO: Añadir pregunta contemplativa]"
+            "pregunta": "Si toda la historia de los patriarcas se borrara por completo y todos los textos sagrados del Zen ardieran hoy, ¿cómo demostrarías, aquí y ahora, que estás despierto?"
       },
       {
             "id": 15,
