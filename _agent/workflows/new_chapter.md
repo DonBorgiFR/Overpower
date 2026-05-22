@@ -6,9 +6,9 @@ This workflow guides the creation of a new chapter based on the standardized tem
 
 ## Prerequisites
 
-- Read `01_Guia_Editorial_Zen_Occidental.md` for editorial principles.
-- Read `02_Glosario_Puente_Zen_Occidental_V0.md` for terminology standards.
-- Read `03_Plantilla_Capitulo_Zen_Occidental.md` for the 8-section structure.
+- Read `content/Guia_Editorial_Zen_Occidental.md` for editorial principles.
+- Read `content/Glosario_Puente_Zen_Occidental_V1.md` for terminology standards.
+- Read `content/Plantilla_Capitulo_Zen_Occidental.md` for the 8-section structure.
 
 ## Steps
 

@@ -37,51 +37,6 @@ window.OP = {
   /* ─── CHAPTERS ─────────────────────────────────────────────── */
   chapters: [
       {
-            "id": 1,
-            "file": "01",
-            "level": 1,
-            "title": "Guía Editorial Zen-Occidental v1",
-            "subtitle": "",
-            "metaphor": "",
-            "school": "[Soto/Rinzai/Ambas/Chan]",
-            "type": "[sutra, poema, koan, tratado, biografía]",
-            "apertura": "",
-            "analogias": [],
-            "pregunta": ""
-      },
-      {
-            "id": 2,
-            "file": "02",
-            "level": 1,
-            "title": "Glosario Puente Zen-Occidental v1",
-            "subtitle": "",
-            "metaphor": "",
-            "school": "",
-            "type": "",
-            "apertura": "",
-            "analogias": [],
-            "pregunta": ""
-      },
-      {
-            "id": 3,
-            "file": "03",
-            "level": 1,
-            "title": "Plantilla de Capítulo Zen-Occidental (v1)",
-            "subtitle": "",
-            "metaphor": "",
-            "school": "",
-            "type": "",
-            "apertura": "Explica por qué este texto importa en la práctica Zen y qué problema humano aborda. 2-4 párrafos.",
-            "analogias": [
-                  {
-                        "title": "Traducción",
-                        "text": "- Reformular los conceptos en lenguaje contemporáneo.\n- Incluir al menos 2 analogías basadas en situaciones cotidianas universales e interhumanas (NO usar jerga informática).\n- Cada analogía debe incluir una subsección «El límite de la analogía».",
-                        "limit": ""
-                  }
-            ],
-            "pregunta": "Una pregunta abierta que no se responde con teoría. No incluir «Contemplación:» como prefijo; el texto habla directamente al lector."
-      },
-      {
             "id": 4,
             "file": "04",
             "level": 2,

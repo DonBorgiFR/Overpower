@@ -38,14 +38,14 @@ OverPower/
 │       ├── landing.js              # Interacciones landing
 │       └── reader.js               # Motor del lector
 │
-├── 01_Guia_Editorial.md            # Principios editoriales del proyecto
-├── 02_Glosario_Puente_V0.md        # Vocabulario puente zen-occidental
-├── 03_Plantilla_Capitulo.md        # Plantilla estándar de 8 secciones
-│
-├── 04–13_*.md                      # NIVEL 1: Sutras Fundacionales
-├── 14_Historiografía_*.md          # NIVEL 2: Capa historiográfica
-├── 15–20_*.md                      # NIVELES 2–3: Patriarcas + Dōgen
-├── 21–36_*.md                      # NIVEL 4: Mumonkan (Casos 1–16)
+├── content/                        # Carpeta de contenidos del compendio
+│   ├── Guia_Editorial_Zen_Occidental.md     # Principios editoriales del proyecto
+│   ├── Glosario_Puente_Zen_Occidental_V1.md  # Vocabulario puente zen-occidental
+│   ├── Plantilla_Capitulo_Zen_Occidental.md  # Plantilla estándar de 8 secciones
+│   ├── 04–13_*.md                  # NIVEL 1: Sutras Fundacionales
+│   ├── 14_Historiografía_*.md      # NIVEL 2: Capa historiográfica
+│   ├── 15–20_*.md                  # NIVELES 2–3: Patriarcas + Dōgen
+│   └── 21–68_*.md                  # NIVEL 4: Mumonkan (Casos 1–48)
 │
 ├── Base de Escrituras*.md          # Corpus fuente original
 ├── Historiografía*.docx            # Documento de investigación

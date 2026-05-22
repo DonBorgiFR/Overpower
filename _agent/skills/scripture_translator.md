@@ -18,7 +18,7 @@ When asked to translate or explain a scripture from the base:
     - Check the "Relevancia zen" section provided in the base for that text.
 
 3. **Apply Editorial Bridge**:
-    - Use the `02_Glosario_Puente_Zen_Occidental_V0.md` (if available) to ensure terminology consistency.
+    - Use `content/Glosario_Puente_Zen_Occidental_V1.md` (if available) to ensure terminology consistency.
     - Follow the "Regla de Traduccion de Terminos" from the Editorial Guide:
         - Termino original -> Traduccion funcional -> Uso practico -> Alerta.
 
