@@ -2,17 +2,17 @@
 
 Proyecto editorial para compilar saber budista zen de alto nivel y traducirlo a lenguaje contemporáneo occidental sin perder precisión doctrinal. Las analogías técnicas (ingeniería de software, ciencia cognitiva, arquitectura de sistemas) sirven como *puentes*, no como sustitutos del contenido doctrinal.
 
-## Estado actual (2026-04-18)
+## Estado actual (2026-06-09)
 
 | Nivel | Contenido | Estado |
 |---|---|---|
 | **Nivel 1** — Sutras Fundacionales | 10 capítulos (Fukanzazengi → Sutra de la Plataforma) | ✅ Completo |
 | **Nivel 2** — Patriarcas y Linaje | 4 capítulos (Historiografía, Bodhidharma, Huike/Sengcan, Montaña del Este) | ✅ Completo |
 | **Nivel 3** — Obras de Dōgen | 3 capítulos (Bendowa, Genjōkōan, Zazengi) | ✅ Completo |
-| **Nivel 4** — Mumonkan (Kōans) | Refactorizando a metáforas humanas (Casos 2-9, 13) | 🔄 En progreso |
+| **Nivel 4** — Mumonkan (Kōans) | 48 capítulos (Caso 1 → Caso 48) | ✅ Completo |
 | **Web** | Multi-página: landing + explorar (lector de capítulos) | ✅ Fase 1 completa |
 
-**Total**: 36 archivos (32 capítulos de contenido + 4 archivos editoriales).
+**Total**: 68 archivos (65 capítulos de contenido + 3 archivos editoriales).
 
 ## Estructura del repositorio
 
@@ -85,25 +85,57 @@ OverPower/
 | 16 | `Capitulo_Genjokoan` | El kōan manifiesto |
 | 20 | `Capitulo_Zazengi_Manual_Tecnico` | Manual técnico de zazen |
 
-### Nivel 4 — Mumonkan (16/48 completados)
-| # | Caso | Metáfora técnica |
+### Nivel 4 — Mumonkan (48/48 completados)
+| # | Caso | Eje temático / Metáfora |
 |---|---|---|
-| 21 | Caso 1: El Mu de Joshu | Systematic Logic Jammer / Null |
-| 22 | Caso 2: El Zorro de Hyakujo | El Arquitecto y la Gravedad (Causalidad) |
-| 23 | Caso 3: El Dedo de Gutei | El Loro y la Palabra (Imitación vs Realidad) |
-| 24 | Caso 4: El Bárbaro sin Barba | El Espejo y el Prejuicio (Etiquetas) |
-| 25 | Caso 5: El Hombre en el Árbol | El Dilema de la Integridad (Sin salida) |
-| 26 | Caso 6: La Flor de Buda | La Sonrisa del Silencio (Complicidad) |
-| 27 | Caso 7: Lava tus Cuencos | La Espiritualidad de lo Ordinario |
-| 28 | Caso 8: Los Carros de Keichū | El Violín y la Música (Esencia y Partes) |
-| 29 | Caso 9: El Fuego de Daizui | El Incendio de la Biblioteca (Extinción) |
-| 30 | Caso 10: Seizei es Pobre | Native Features |
-| 31 | Caso 11: Joshu y los Ermitaños | Deep Packet Inspection |
-| 32 | Caso 12: Zuigan llama a su Amo | Self-referential Loop |
-| 33 | Caso 13: Deshan y los Cuencos | La Impaciencia y la Mesa (Cierre de Ciclos) |
-| 34 | Caso 14: Nansen corta el Gato | Split-brain / Deadlock |
-| 35 | Caso 15: Dongshan, 60 Golpes | Semántica vs. Sintaxis |
-| 36 | Caso 16: Yunmen y la Campana | Event Handler Automatizado |
+| 21 | Caso 1: El "Mu" de Joshu | La Puerta Sin Puerta |
+| 22 | Caso 2: El Zorro de Hyakujo | Causa, efecto y responsabilidad |
+| 23 | Caso 3: El Dedo de Gutei | Autenticidad y simulacro |
+| 24 | Caso 4: El Bárbaro sin Barba | Etiquetas y realidad |
+| 25 | Caso 5: El Hombre en el Árbol | Dilemas sin salida |
+| 26 | Caso 6: El Buda sostiene una flor | La sonrisa del silencio |
+| 27 | Caso 7: Lava tus cuencos | La espiritualidad de lo ordinario |
+| 28 | Caso 8: Los carros de Keichu | La esencia y sus partes |
+| 29 | Caso 9: El fuego de Daizui | La extinción absoluta |
+| 30 | Caso 10: Seizei es pobre y está necesitado | La Fortuna Olvidada |
+| 31 | Caso 11: Joshu y los ermitaños | La Resonancia del Barro |
+| 32 | Caso 12: Zuigan llama a su propio amo | El Espejo y el Eco |
+| 33 | Caso 13: Deshan lleva sus cuencos | La anticipación del corazón |
+| 34 | Caso 14: Nansen corta el gato | Resolución de Conflictos Irresolubles |
+| 35 | Caso 15: Los sesenta golpes de Dongshan | Respuesta Sintácticamente Correcta, Semánticamente Vacía |
+| 36 | Caso 16: Yunmen y la campana | La Presencia frente al Hábito |
+| 37 | Caso 17: El Maestro Nacional Llama | La Llamada Viva y el Contestador Automático |
+| 38 | Caso 18: Tres Libras de Lino | La Materialidad que Corta la Abstracción |
+| 39 | Caso 19: La Mente Ordinaria | El Cielo Abierto |
+| 40 | Caso 20: El Hombre de Gran Fuerza | La Fuerza Natural |
+| 41 | Caso 21: El Palo de Caca de Yunmen | Lo Descartable y la Naturaleza del Buda |
+| 42 | Caso 22: El Mástil de Kashyapa | El Fin de la Dependencia |
+| 43 | Caso 23: Ni Bien Ni Mal | Más Allá del Juez Interno |
+| 44 | Caso 24: El Habla y el Silencio de Fuketsu | Romper el Bucle |
+| 45 | Caso 25: El Sueño de Kyozan | El Engaño del Espejo |
+| 46 | Caso 26: Dos Monjes Enrollan las Persianas | La Acción Sin Rastro |
+| 47 | Caso 27: No es Mente, No es Buda | El Espejismo de las Etiquetas |
+| 48 | Caso 28: Ryutan Apaga la Vela | Apagar el Farol Ajeno |
+| 49 | Caso 29: Ni viento ni bandera | La Película y la Pantalla |
+| 50 | Caso 30: Esta Misma Mente es Buda | El Tesoro en el Bolsillo |
+| 51 | Caso 31: Joshu Investiga a la Anciana | Escuchar desde otra orilla |
+| 52 | Caso 32: Un Filósofo Interroga a Buda | El Gesto que Cierra la Boca |
+| 53 | Caso 33: Ni Mente, Ni Buda | El Medicamento Cambia, la Cura es la Misma |
+| 54 | Caso 34: La Sabiduría No Es El Camino | El Erudito Incapaz de Amar |
+| 55 | Caso 35: Dos Almas Separadas | El Cuerpo en la Silla, la Mente en la Fuga |
+| 56 | Caso 36: Encuentro en el Camino | El Abrazo Mudo o el Guante a la Mandíbula |
+| 57 | Caso 37: El Roble del Jardín | Lo Sublime en el Suelo |
+| 58 | Caso 38: El Búfalo y la Ventana | El Gigante Pasa, la Cola se Atasca |
+| 59 | Caso 39: Yunmen y el Error al Hablar | El Playback Emocional |
+| 60 | Caso 40: Patear el Cántaro | Romper el Juego Semántico |
+| 61 | Caso 41: Bodhidharma Pacifica la Mente | La Lupa y el Fantasma |
+| 62 | Caso 42: La Chica Sale del Samadhi | El Rescate Mundano |
+| 63 | Caso 43: El Bastón de Shuzan | La Trampa de la Etiqueta |
+| 64 | Caso 44: El Bastón de Basho | Al que Tiene, Se le Dará |
+| 65 | Caso 45: ¿Quién es Aquel Otro? | El Dueño de la Franquicia |
+| 66 | Caso 46: Avanzar desde el Poste de Cien Pies | Saltar del Pedestal |
+| 67 | Caso 47: Las Tres Barreras de Tosotsu | El Crash-Test Existencial |
+| 68 | Caso 48: El Único Camino de Kempo | La Autopista en el Aire |
 
 ## Principios editoriales (resumen)
 
@@ -115,10 +147,10 @@ OverPower/
 
 ## Próximos pasos
 
-- [ ] Completar Mumonkan: Casos 17–48 (32 capítulos restantes).
+- [x] Completar Mumonkan: Casos 17–48 (32 capítulos restantes).
 - [ ] Auditoría de normalización: Capítulos Nivel 1 (04–13) pendientes de estandarizar al formato Generación 2.
-- [ ] Actualizar glosario: Incorporar términos nuevos del Nivel 4 (Shuinjinkou, Manas, Heijoshin, Angya).
-- [ ] Evolucionar la web: Navegación por capítulos, modo lectura, glosario interactivo.
+- [x] Actualizar glosario: Incorporar términos nuevos del Nivel 4 (Shuinjinkou, Manas, Heijoshin, Angya).
+- [x] Evolucionar la web: Navegación por capítulos, modo lectura, glosario interactivo.
 - [ ] Guía interactiva: NotebookLM para audio/infographic del compendio.
 
 ---
